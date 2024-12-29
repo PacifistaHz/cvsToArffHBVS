@@ -1,0 +1,1001 @@
+ProductID,OrderID,CustomerID,Address,Quantity,OrderDate,ProductPrice,Country,ProductCategory,CustomerAge,CustomerGender,PaymentMethod,PromotionApplied
+633,15974,1728,Burdur,9,2023-01-01,246.86,Türkiye,Giyim,54,Kadın,Kredi Kartı,Evet
+679,11089,1448,Manisa,2,2023-01-02,319.54,Türkiye,Ev Eşyaları,48,Erkek,Havale,Evet
+229,14297,1748,Mardin,8,2023-01-03,137.84,Türkiye,Ev Eşyaları,57,Diğer,Kapıda Ödeme,Evet
+456,10064,1654,Ardahan,1,2023-01-04,711.84,Türkiye,Ev Eşyaları,68,Diğer,Kredi Kartı,Hayır
+135,13604,1584,Bartın,2,2023-01-05,855.62,Türkiye,Elektronik,23,Kadın,Havale,Hayır
+369,15675,1845,Kırıkkale,8,2023-01-06,800.59,Türkiye,Elektronik,54,Kadın,Kapıda Ödeme,Hayır
+744,11142,1276,Balıkesir,9,2023-01-07,842.5,Türkiye,Elektronik,54,Erkek,Kapıda Ödeme,Evet
+340,13305,1544,Giresun,5,2023-01-08,999.25,Türkiye,Giyim,58,Diğer,Kredi Kartı,Hayır
+715,19607,1736,Bursa,5,2023-01-09,130.22,Türkiye,Elektronik,68,Erkek,Kredi Kartı,Hayır
+703,13385,1853,Burdur,7,2023-01-10,215.77,Türkiye,Giyim,53,Kadın,Kapıda Ödeme,Evet
+533,14539,1225,Bitlis,5,2023-01-11,344.41,Türkiye,Elektronik,44,Kadın,Kapıda Ödeme,Hayır
+546,17911,1900,Eskişehir,1,2023-01-12,411.1,Türkiye,Elektronik,63,Diğer,Havale,Evet
+937,19768,1958,Kırklareli,3,2023-01-13,757.84,Türkiye,Elektronik,19,Kadın,Kapıda Ödeme,Evet
+177,19702,1965,Denizli,5,2023-01-14,14.5,Türkiye,Ev Eşyaları,61,Diğer,Kapıda Ödeme,Hayır
+273,17365,1547,Karaman,5,2023-01-15,892.9,Türkiye,Elektronik,25,Erkek,Kapıda Ödeme,Evet
+251,10422,1512,Isparta,1,2023-01-16,178.55,Türkiye,Ev Eşyaları,32,Diğer,Havale,Hayır
+875,17090,1714,Denizli,4,2023-01-17,881.38,Türkiye,Elektronik,64,Diğer,Kapıda Ödeme,Evet
+565,12447,1017,Bilecik,3,2023-01-18,829.36,Türkiye,Ev Eşyaları,18,Diğer,Kapıda Ödeme,Hayır
+802,15680,1080,Kahramanmaraş,9,2023-01-19,50.2,Türkiye,Elektronik,55,Kadın,Kredi Kartı,Evet
+905,16467,1169,Kocaeli,1,2023-01-20,693.62,Türkiye,Elektronik,63,Kadın,Kapıda Ödeme,Hayır
+406,13690,1345,Ağrı,8,2023-01-21,286.07,Türkiye,Ev Eşyaları,30,Erkek,Kredi Kartı,Hayır
+571,16271,1087,Afyonkarahisar,4,2023-01-22,235.5,Türkiye,Ev Eşyaları,67,Diğer,Kapıda Ödeme,Evet
+438,17423,1561,Yalova,2,2023-01-23,804.57,Türkiye,Ev Eşyaları,64,Diğer,Havale,Evet
+253,12148,1357,Uşak,8,2023-01-24,184.88,Türkiye,Ev Eşyaları,65,Diğer,Kapıda Ödeme,Evet
+722,12560,1019,Edirne,5,2023-01-25,628.85,Türkiye,Giyim,34,Kadın,Kapıda Ödeme,Evet
+792,15079,1768,Ağrı,1,2023-01-26,28.69,Türkiye,Ev Eşyaları,32,Kadın,Kapıda Ödeme,Evet
+759,17494,1038,Şanlıurfa,1,2023-01-27,871.42,Türkiye,Ev Eşyaları,66,Kadın,Kredi Kartı,Evet
+184,10157,1623,Kırıkkale,4,2023-01-28,155.84,Türkiye,Elektronik,58,Diğer,Kredi Kartı,Hayır
+351,12628,1870,Düzce,5,2023-01-29,102.53,Türkiye,Elektronik,40,Kadın,Havale,Evet
+101,16826,1087,Konya,1,2023-01-30,164.4,Türkiye,Elektronik,64,Kadın,Kredi Kartı,Evet
+367,18991,1690,Afyonkarahisar,6,2023-01-31,35.22,Türkiye,Elektronik,63,Diğer,Kapıda Ödeme,Hayır
+579,11536,1048,Çankırı,3,2023-02-01,858.8,Türkiye,Elektronik,33,Diğer,Kredi Kartı,Evet
+814,11264,1969,Aydın,6,2023-02-02,262.6,Türkiye,Ev Eşyaları,27,Erkek,Havale,Hayır
+297,13133,1299,Bursa,9,2023-02-03,392.52,Türkiye,Ev Eşyaları,64,Kadın,Kredi Kartı,Evet
+565,13359,1614,Kocaeli,9,2023-02-04,140.49,Türkiye,Elektronik,31,Erkek,Kapıda Ödeme,Evet
+435,16843,1645,Batman,1,2023-02-05,181.6,Türkiye,Elektronik,64,Diğer,Kapıda Ödeme,Evet
+627,12850,1625,Mersin,4,2023-02-06,84.4,Türkiye,Elektronik,33,Erkek,Kredi Kartı,Evet
+715,11368,1560,Çorum,4,2023-02-07,417.47,Türkiye,Giyim,58,Erkek,Kapıda Ödeme,Evet
+803,19641,1273,Kırşehir,8,2023-02-08,317.15,Türkiye,Giyim,51,Diğer,Havale,Evet
+84,16323,1919,Ağrı,6,2023-02-09,855.83,Türkiye,Elektronik,67,Erkek,Kapıda Ödeme,Evet
+872,13670,1358,Bolu,4,2023-02-10,904.17,Türkiye,Giyim,41,Kadın,Kapıda Ödeme,Evet
+838,18044,1456,Bolu,1,2023-02-11,239.24,Türkiye,Giyim,51,Erkek,Kredi Kartı,Evet
+749,13184,1283,Bolu,2,2023-02-12,496.41,Türkiye,Ev Eşyaları,21,Erkek,Havale,Evet
+789,17451,1903,Zonguldak,3,2023-02-13,140.78,Türkiye,Elektronik,36,Erkek,Havale,Hayır
+384,18689,1821,Erzincan,9,2023-02-14,901.37,Türkiye,Giyim,38,Kadın,Havale,Evet
+569,15300,1555,Isparta,7,2023-02-15,613.63,Türkiye,Elektronik,60,Diğer,Havale,Hayır
+635,16712,1857,Niğde,7,2023-02-16,424.29,Türkiye,Ev Eşyaları,31,Kadın,Kapıda Ödeme,Hayır
+776,13083,1383,Artvin,7,2023-02-17,841.16,Türkiye,Giyim,56,Diğer,Havale,Evet
+166,16025,1457,Çanakkale,8,2023-02-18,253.13,Türkiye,Giyim,48,Erkek,Havale,Hayır
+317,15607,1250,Bolu,3,2023-02-19,527.57,Türkiye,Ev Eşyaları,20,Diğer,Kredi Kartı,Evet
+331,16279,1922,Erzincan,1,2023-02-20,132.84,Türkiye,Giyim,57,Diğer,Kredi Kartı,Evet
+281,12959,1362,Düzce,4,2023-02-21,402.05,Türkiye,Ev Eşyaları,33,Diğer,Havale,Evet
+777,17248,1052,Karabük,2,2023-02-22,647.24,Türkiye,Ev Eşyaları,22,Kadın,Kredi Kartı,Hayır
+824,18787,1491,Manisa,7,2023-02-23,25.31,Türkiye,Giyim,57,Diğer,Havale,Evet
+451,13052,1211,Muş,1,2023-02-24,376.06,Türkiye,Giyim,60,Diğer,Havale,Evet
+659,10362,1761,Bayburt,3,2023-02-25,367.11,Türkiye,Ev Eşyaları,63,Erkek,Kredi Kartı,Evet
+778,17525,1274,Kayseri,8,2023-02-26,879.39,Türkiye,Ev Eşyaları,27,Erkek,Kapıda Ödeme,Hayır
+233,17441,1042,Kilis,4,2023-02-27,337.12,Türkiye,Elektronik,30,Erkek,Kapıda Ödeme,Evet
+904,14806,1121,Konya,9,2023-02-28,647.79,Türkiye,Ev Eşyaları,62,Diğer,Kredi Kartı,Evet
+812,17924,1640,Mersin,1,2023-03-01,306.0,Türkiye,Elektronik,68,Kadın,Kapıda Ödeme,Hayır
+94,14881,1492,Karaman,5,2023-03-02,274.29,Türkiye,Ev Eşyaları,64,Diğer,Kredi Kartı,Evet
+863,14075,1180,Muğla,5,2023-03-03,873.2,Türkiye,Giyim,19,Diğer,Kredi Kartı,Hayır
+961,18199,1622,Kocaeli,7,2023-03-04,779.72,Türkiye,Giyim,45,Erkek,Kapıda Ödeme,Evet
+932,15224,1697,Burdur,9,2023-03-05,133.26,Türkiye,Giyim,52,Kadın,Havale,Hayır
+678,18494,1922,Samsun,8,2023-03-06,197.65,Türkiye,Elektronik,25,Erkek,Kapıda Ödeme,Hayır
+877,12522,1023,Yozgat,8,2023-03-07,989.4,Türkiye,Elektronik,23,Kadın,Kapıda Ödeme,Evet
+757,19386,1610,Amasya,3,2023-03-08,713.27,Türkiye,Giyim,61,Erkek,Havale,Evet
+283,17059,1451,Tunceli,7,2023-03-09,134.02,Türkiye,Elektronik,67,Kadın,Kredi Kartı,Evet
+535,16336,1993,Balıkesir,2,2023-03-10,320.02,Türkiye,Elektronik,28,Erkek,Kredi Kartı,Hayır
+861,18381,1579,Denizli,3,2023-03-11,478.99,Türkiye,Ev Eşyaları,38,Erkek,Kapıda Ödeme,Evet
+493,15956,1865,Bilecik,3,2023-03-12,449.85,Türkiye,Giyim,23,Diğer,Havale,Hayır
+251,14778,1721,Ardahan,6,2023-03-13,146.79,Türkiye,Giyim,68,Kadın,Kapıda Ödeme,Evet
+557,13239,1523,İstanbul,1,2023-03-14,322.16,Türkiye,Giyim,42,Diğer,Havale,Evet
+47,13910,1287,Sivas,6,2023-03-15,64.42,Türkiye,Giyim,60,Diğer,Havale,Hayır
+523,16415,1266,Mardin,5,2023-03-16,306.45,Türkiye,Ev Eşyaları,57,Erkek,Havale,Hayır
+956,12751,1302,Kilis,9,2023-03-17,184.48,Türkiye,Elektronik,45,Diğer,Kapıda Ödeme,Evet
+313,14285,1021,Batman,4,2023-03-18,985.82,Türkiye,Elektronik,26,Diğer,Kredi Kartı,Evet
+659,14086,1592,Şırnak,4,2023-03-19,947.65,Türkiye,Elektronik,50,Diğer,Kredi Kartı,Hayır
+871,10317,1589,Sivas,6,2023-03-20,878.98,Türkiye,Elektronik,54,Kadın,Kredi Kartı,Hayır
+290,11808,1737,Gaziantep,3,2023-03-21,784.43,Türkiye,Elektronik,19,Kadın,Havale,Evet
+953,11242,1621,Samsun,7,2023-03-22,776.76,Türkiye,Elektronik,26,Erkek,Havale,Evet
+690,16236,1500,Erzurum,1,2023-03-23,791.14,Türkiye,Elektronik,22,Diğer,Havale,Evet
+835,13054,1449,Sivas,9,2023-03-24,241.63,Türkiye,Elektronik,27,Erkek,Kredi Kartı,Evet
+315,17605,1674,Kırşehir,6,2023-03-25,449.25,Türkiye,Elektronik,42,Erkek,Kredi Kartı,Evet
+943,19291,1054,Çorum,5,2023-03-26,659.91,Türkiye,Elektronik,59,Diğer,Havale,Evet
+874,14064,1920,Sakarya,4,2023-03-27,352.93,Türkiye,Elektronik,24,Diğer,Havale,Evet
+483,19961,1228,Yozgat,6,2023-03-28,92.18,Türkiye,Elektronik,58,Erkek,Kapıda Ödeme,Evet
+393,10361,1181,Uşak,6,2023-03-29,710.57,Türkiye,Elektronik,41,Kadın,Kredi Kartı,Evet
+808,17901,1318,Tekirdağ,4,2023-03-30,851.13,Türkiye,Ev Eşyaları,53,Diğer,Kredi Kartı,Hayır
+284,18022,1795,Karaman,5,2023-03-31,386.57,Türkiye,Elektronik,51,Diğer,Havale,Hayır
+232,10626,1095,Çorum,8,2023-04-01,948.3,Türkiye,Ev Eşyaları,49,Diğer,Kapıda Ödeme,Hayır
+253,14630,1415,Niğde,8,2023-04-02,817.98,Türkiye,Elektronik,45,Kadın,Kredi Kartı,Hayır
+788,17311,1015,Çankırı,6,2023-04-03,525.52,Türkiye,Ev Eşyaları,54,Kadın,Kapıda Ödeme,Evet
+175,11441,1291,Bayburt,4,2023-04-04,73.71,Türkiye,Giyim,46,Kadın,Kapıda Ödeme,Hayır
+974,16779,1473,Çorum,2,2023-04-05,118.09,Türkiye,Ev Eşyaları,18,Diğer,Havale,Evet
+451,11295,1140,Kayseri,8,2023-04-06,190.11,Türkiye,Elektronik,60,Diğer,Havale,Evet
+868,15836,1134,Bingöl,7,2023-04-07,244.02,Türkiye,Elektronik,49,Erkek,Havale,Evet
+815,16210,1638,Bitlis,3,2023-04-08,673.37,Türkiye,Elektronik,48,Kadın,Kapıda Ödeme,Evet
+871,17581,1973,Erzurum,6,2023-04-09,686.51,Türkiye,Elektronik,37,Erkek,Kapıda Ödeme,Hayır
+641,18092,1215,Çankırı,9,2023-04-10,892.49,Türkiye,Ev Eşyaları,36,Kadın,Kredi Kartı,Evet
+574,12097,1293,Malatya,7,2023-04-11,515.98,Türkiye,Giyim,25,Kadın,Kapıda Ödeme,Evet
+925,18523,1591,Mersin,9,2023-04-12,596.42,Türkiye,Giyim,25,Erkek,Havale,Hayır
+898,19057,1456,Ağrı,4,2023-04-13,823.46,Türkiye,Elektronik,49,Kadın,Kapıda Ödeme,Evet
+995,11343,1020,Muğla,7,2023-04-14,481.39,Türkiye,Giyim,25,Diğer,Kapıda Ödeme,Evet
+888,13063,1971,Kütahya,4,2023-04-15,89.22,Türkiye,Ev Eşyaları,42,Kadın,Havale,Evet
+783,12534,1482,Zonguldak,5,2023-04-16,643.09,Türkiye,Elektronik,51,Diğer,Kredi Kartı,Evet
+483,19960,1189,Kırklareli,7,2023-04-17,298.03,Türkiye,Elektronik,53,Diğer,Kapıda Ödeme,Evet
+841,16149,1163,Hakkari,5,2023-04-18,379.94,Türkiye,Ev Eşyaları,62,Erkek,Havale,Evet
+747,15834,1531,Tunceli,2,2023-04-19,49.41,Türkiye,Elektronik,32,Kadın,Kredi Kartı,Evet
+365,14537,1602,Kırıkkale,7,2023-04-20,406.26,Türkiye,Giyim,56,Diğer,Havale,Hayır
+726,17612,1977,Şanlıurfa,3,2023-04-21,459.75,Türkiye,Ev Eşyaları,62,Erkek,Kapıda Ödeme,Evet
+728,14299,1696,Çankırı,2,2023-04-22,392.59,Türkiye,Ev Eşyaları,49,Kadın,Havale,Evet
+875,11842,1963,Tunceli,4,2023-04-23,386.49,Türkiye,Elektronik,19,Diğer,Kredi Kartı,Evet
+278,14034,1102,Yozgat,4,2023-04-24,719.92,Türkiye,Elektronik,60,Erkek,Kapıda Ödeme,Hayır
+611,14493,1085,Sakarya,6,2023-04-25,433.98,Türkiye,Giyim,22,Erkek,Havale,Hayır
+683,13770,1456,Düzce,4,2023-04-26,271.65,Türkiye,Elektronik,31,Erkek,Havale,Hayır
+884,11209,1411,Çorum,5,2023-04-27,611.58,Türkiye,Giyim,39,Kadın,Havale,Evet
+603,15538,1921,Kayseri,2,2023-04-28,793.73,Türkiye,Giyim,54,Erkek,Havale,Evet
+903,14828,1742,Tokat,7,2023-04-29,954.11,Türkiye,Elektronik,30,Diğer,Kredi Kartı,Hayır
+565,17190,1767,Van,8,2023-04-30,37.82,Türkiye,Elektronik,21,Erkek,Kredi Kartı,Evet
+557,17196,1249,Diyarbakır,6,2023-05-01,951.2,Türkiye,Ev Eşyaları,57,Erkek,Kredi Kartı,Hayır
+831,12464,1286,Sinop,3,2023-05-02,792.73,Türkiye,Elektronik,29,Erkek,Kredi Kartı,Evet
+17,11611,1519,Rize,5,2023-05-03,350.3,Türkiye,Elektronik,57,Kadın,Havale,Evet
+579,17323,1994,Aksaray,3,2023-05-04,874.94,Türkiye,Elektronik,31,Diğer,Havale,Evet
+495,17096,1416,Tunceli,4,2023-05-05,499.97,Türkiye,Giyim,64,Erkek,Kapıda Ödeme,Hayır
+475,15745,1813,Sinop,4,2023-05-06,22.36,Türkiye,Giyim,29,Diğer,Kredi Kartı,Evet
+43,11641,1996,Artvin,1,2023-05-07,847.25,Türkiye,Elektronik,27,Diğer,Kredi Kartı,Evet
+20,11860,1188,Siirt,5,2023-05-08,289.44,Türkiye,Giyim,22,Erkek,Kapıda Ödeme,Evet
+83,15774,1395,İzmir,2,2023-05-09,470.06,Türkiye,Giyim,35,Diğer,Kredi Kartı,Hayır
+18,17943,1424,Ağrı,1,2023-05-10,65.7,Türkiye,Ev Eşyaları,37,Kadın,Kapıda Ödeme,Evet
+37,18207,1367,Manisa,1,2023-05-11,51.53,Türkiye,Elektronik,28,Kadın,Kapıda Ödeme,Hayır
+57,17559,1832,Giresun,3,2023-05-12,473.76,Türkiye,Elektronik,69,Kadın,Kapıda Ödeme,Evet
+670,13373,1007,Muğla,2,2023-05-13,926.61,Türkiye,Elektronik,34,Diğer,Kapıda Ödeme,Hayır
+987,19793,1846,Niğde,4,2023-05-14,123.87,Türkiye,Giyim,62,Kadın,Havale,Hayır
+362,16649,1107,Diyarbakır,8,2023-05-15,986.82,Türkiye,Giyim,20,Diğer,Kredi Kartı,Hayır
+217,17178,1864,Kocaeli,4,2023-05-16,515.33,Türkiye,Elektronik,60,Diğer,Havale,Hayır
+563,12707,1886,Ağrı,2,2023-05-17,973.37,Türkiye,Elektronik,24,Kadın,Havale,Evet
+853,14706,1041,Erzurum,7,2023-05-18,562.96,Türkiye,Ev Eşyaları,59,Diğer,Havale,Evet
+736,13333,1359,Sivas,1,2023-05-19,207.91,Türkiye,Ev Eşyaları,40,Erkek,Kapıda Ödeme,Hayır
+41,12264,1961,Aksaray,1,2023-05-20,215.99,Türkiye,Ev Eşyaları,55,Kadın,Kapıda Ödeme,Evet
+837,18826,1102,Burdur,2,2023-05-21,386.38,Türkiye,Giyim,62,Diğer,Kapıda Ödeme,Evet
+895,19496,1051,Bartın,3,2023-05-22,82.12,Türkiye,Giyim,22,Erkek,Havale,Evet
+480,19769,1901,Van,2,2023-05-23,638.92,Türkiye,Elektronik,64,Diğer,Kredi Kartı,Evet
+872,18657,1270,Kocaeli,6,2023-05-24,545.96,Türkiye,Giyim,49,Diğer,Havale,Hayır
+455,11122,1820,Rize,4,2023-05-25,120.83,Türkiye,Ev Eşyaları,26,Kadın,Havale,Evet
+937,19443,1713,Mersin,2,2023-05-26,598.19,Türkiye,Elektronik,54,Diğer,Havale,Evet
+985,12986,1190,Eskişehir,4,2023-05-27,990.06,Türkiye,Ev Eşyaları,25,Kadın,Kredi Kartı,Evet
+83,19794,1288,Isparta,3,2023-05-28,822.94,Türkiye,Giyim,67,Kadın,Havale,Hayır
+13,14475,1253,Niğde,2,2023-05-29,91.29,Türkiye,Giyim,25,Diğer,Kapıda Ödeme,Evet
+566,12905,1874,Giresun,5,2023-05-30,421.7,Türkiye,Elektronik,52,Erkek,Kapıda Ödeme,Hayır
+849,16774,1092,Bursa,3,2023-05-31,242.76,Türkiye,Ev Eşyaları,49,Diğer,Kapıda Ödeme,Evet
+405,10000,1113,Mersin,8,2023-06-01,878.95,Türkiye,Ev Eşyaları,68,Erkek,Kapıda Ödeme,Hayır
+709,16516,1423,Çorum,5,2023-06-02,53.57,Türkiye,Giyim,27,Diğer,Kapıda Ödeme,Evet
+96,11311,1595,Adana,5,2023-06-03,450.16,Türkiye,Elektronik,34,Kadın,Kredi Kartı,Hayır
+555,14733,1539,Mardin,1,2023-06-04,304.51,Türkiye,Ev Eşyaları,39,Diğer,Havale,Hayır
+792,16727,1042,Malatya,6,2023-06-05,847.71,Türkiye,Giyim,49,Diğer,Kredi Kartı,Evet
+324,18240,1502,Antalya,3,2023-06-06,826.58,Türkiye,Elektronik,59,Diğer,Havale,Evet
+505,11005,1237,Bartın,1,2023-06-07,129.81,Türkiye,Ev Eşyaları,48,Diğer,Kapıda Ödeme,Evet
+163,10414,1910,Hatay,4,2023-06-08,323.05,Türkiye,Ev Eşyaları,64,Diğer,Kapıda Ödeme,Hayır
+698,12638,1098,Ardahan,2,2023-06-09,287.46,Türkiye,Elektronik,56,Diğer,Kapıda Ödeme,Evet
+721,19770,1460,Konya,3,2023-06-10,880.67,Türkiye,Giyim,33,Erkek,Havale,Hayır
+706,19188,1761,Bayburt,7,2023-06-11,100.25,Türkiye,Elektronik,30,Erkek,Havale,Hayır
+280,17186,1141,Düzce,6,2023-06-12,605.53,Türkiye,Giyim,59,Erkek,Kapıda Ödeme,Evet
+885,16832,1998,Rize,7,2023-06-13,313.89,Türkiye,Giyim,38,Erkek,Kapıda Ödeme,Evet
+896,10983,1738,Aydın,5,2023-06-14,77.73,Türkiye,Elektronik,66,Erkek,Havale,Evet
+850,15836,1334,Ordu,1,2023-06-15,35.32,Türkiye,Elektronik,31,Kadın,Kredi Kartı,Evet
+74,12241,1217,Burdur,2,2023-06-16,574.69,Türkiye,Giyim,47,Erkek,Kredi Kartı,Evet
+729,19234,1341,Muğla,9,2023-06-17,459.1,Türkiye,Elektronik,22,Kadın,Havale,Evet
+762,14373,1390,Malatya,3,2023-06-18,421.13,Türkiye,Giyim,56,Kadın,Havale,Evet
+409,12735,1697,İstanbul,8,2023-06-19,663.74,Türkiye,Giyim,44,Kadın,Kredi Kartı,Hayır
+607,16064,1820,Düzce,8,2023-06-20,511.1,Türkiye,Giyim,30,Diğer,Kapıda Ödeme,Evet
+752,10325,1531,Van,2,2023-06-21,719.54,Türkiye,Giyim,40,Kadın,Kredi Kartı,Evet
+934,12187,1584,Hatay,8,2023-06-22,218.71,Türkiye,Ev Eşyaları,43,Diğer,Kredi Kartı,Evet
+445,15113,1612,İzmir,2,2023-06-23,992.89,Türkiye,Giyim,45,Kadın,Kapıda Ödeme,Hayır
+734,14639,1704,Tekirdağ,3,2023-06-24,358.85,Türkiye,Giyim,26,Diğer,Kapıda Ödeme,Evet
+515,11362,1993,Çankırı,4,2023-06-25,681.39,Türkiye,Giyim,43,Diğer,Kredi Kartı,Evet
+368,11343,1446,Konya,7,2023-06-26,611.66,Türkiye,Ev Eşyaları,52,Kadın,Kapıda Ödeme,Hayır
+391,15646,1841,Karaman,8,2023-06-27,74.5,Türkiye,Giyim,45,Diğer,Havale,Hayır
+768,15796,1767,Afyonkarahisar,9,2023-06-28,886.75,Türkiye,Giyim,58,Erkek,Kapıda Ödeme,Evet
+183,12864,1711,Kayseri,3,2023-06-29,685.31,Türkiye,Ev Eşyaları,25,Diğer,Kapıda Ödeme,Hayır
+417,13524,1376,Adana,6,2023-06-30,133.67,Türkiye,Elektronik,42,Diğer,Havale,Evet
+700,16156,1554,Hatay,5,2023-07-01,422.46,Türkiye,Elektronik,58,Erkek,Havale,Hayır
+204,19618,1889,Hatay,4,2023-07-02,27.75,Türkiye,Giyim,34,Kadın,Kredi Kartı,Evet
+7,19613,1607,Osmaniye,5,2023-07-03,912.25,Türkiye,Ev Eşyaları,34,Erkek,Havale,Evet
+290,15346,1320,Van,1,2023-07-04,450.25,Türkiye,Ev Eşyaları,55,Erkek,Kredi Kartı,Hayır
+525,10062,1510,Gaziantep,2,2023-07-05,264.05,Türkiye,Ev Eşyaları,58,Kadın,Havale,Hayır
+552,12802,1278,Edirne,3,2023-07-06,277.75,Türkiye,Giyim,55,Diğer,Kredi Kartı,Evet
+717,16361,1180,Bitlis,9,2023-07-07,514.12,Türkiye,Giyim,24,Kadın,Kredi Kartı,Evet
+264,18793,1513,Muğla,8,2023-07-08,837.16,Türkiye,Elektronik,63,Diğer,Kredi Kartı,Evet
+357,18372,1879,Isparta,9,2023-07-09,773.69,Türkiye,Giyim,63,Kadın,Havale,Hayır
+885,11803,1850,Antalya,5,2023-07-10,440.81,Türkiye,Giyim,60,Kadın,Kapıda Ödeme,Hayır
+127,18135,1580,Bursa,4,2023-07-11,876.61,Türkiye,Giyim,59,Erkek,Kapıda Ödeme,Evet
+329,13355,1800,Adıyaman,4,2023-07-12,545.99,Türkiye,Giyim,32,Erkek,Kredi Kartı,Evet
+143,18638,1205,Karaman,1,2023-07-13,343.04,Türkiye,Ev Eşyaları,43,Diğer,Kapıda Ödeme,Hayır
+473,11030,1193,Trabzon,6,2023-07-14,436.21,Türkiye,Elektronik,68,Erkek,Havale,Evet
+126,14067,1530,Kırklareli,4,2023-07-15,558.63,Türkiye,Giyim,20,Diğer,Kredi Kartı,Hayır
+740,18213,1956,Kütahya,9,2023-07-16,441.24,Türkiye,Ev Eşyaları,62,Kadın,Havale,Evet
+179,11933,1625,Bayburt,1,2023-07-17,308.25,Türkiye,Giyim,29,Kadın,Kapıda Ödeme,Hayır
+464,12134,1274,Antalya,2,2023-07-18,607.75,Türkiye,Giyim,39,Kadın,Havale,Evet
+322,18596,1596,Aksaray,8,2023-07-19,539.74,Türkiye,Elektronik,50,Kadın,Kredi Kartı,Evet
+65,10298,1509,Bolu,7,2023-07-20,223.72,Türkiye,Elektronik,36,Erkek,Havale,Hayır
+134,14699,1162,Malatya,7,2023-07-21,51.31,Türkiye,Giyim,57,Kadın,Kapıda Ödeme,Hayır
+472,14366,1350,Gümüşhane,3,2023-07-22,617.54,Türkiye,Giyim,42,Diğer,Kapıda Ödeme,Evet
+73,17043,1470,Hatay,2,2023-07-23,618.44,Türkiye,Elektronik,24,Erkek,Havale,Evet
+944,12903,1388,Kırşehir,9,2023-07-24,579.99,Türkiye,Giyim,33,Kadın,Kapıda Ödeme,Hayır
+394,18076,1549,Hatay,7,2023-07-25,871.15,Türkiye,Elektronik,19,Erkek,Havale,Hayır
+933,13709,1605,Artvin,4,2023-07-26,31.25,Türkiye,Giyim,69,Erkek,Kredi Kartı,Evet
+318,13095,1146,Konya,3,2023-07-27,868.43,Türkiye,Ev Eşyaları,54,Kadın,Kredi Kartı,Hayır
+946,17731,1537,Düzce,7,2023-07-28,922.03,Türkiye,Giyim,49,Diğer,Kapıda Ödeme,Evet
+641,13800,1730,Kütahya,6,2023-07-29,74.34,Türkiye,Giyim,65,Diğer,Havale,Evet
+588,19101,1638,Ankara,7,2023-07-30,634.07,Türkiye,Giyim,45,Diğer,Kredi Kartı,Hayır
+539,12365,1346,Isparta,7,2023-07-31,317.88,Türkiye,Ev Eşyaları,25,Kadın,Havale,Hayır
+717,17196,1044,Zonguldak,4,2023-08-01,327.77,Türkiye,Elektronik,39,Kadın,Havale,Hayır
+546,12527,1958,Nevşehir,5,2023-08-02,723.39,Türkiye,Giyim,63,Kadın,Kapıda Ödeme,Hayır
+467,11194,1440,Kars,9,2023-08-03,708.61,Türkiye,Elektronik,67,Erkek,Kapıda Ödeme,Evet
+662,16998,1081,Niğde,8,2023-08-04,336.57,Türkiye,Giyim,34,Diğer,Havale,Evet
+118,16356,1145,Gümüşhane,2,2023-08-05,934.71,Türkiye,Giyim,41,Kadın,Havale,Evet
+232,10663,1411,Hatay,7,2023-08-06,456.51,Türkiye,Elektronik,59,Erkek,Kredi Kartı,Evet
+170,11670,1431,Çankırı,3,2023-08-07,966.03,Türkiye,Elektronik,29,Kadın,Kredi Kartı,Evet
+675,12960,1609,Artvin,2,2023-08-08,686.15,Türkiye,Elektronik,36,Kadın,Kredi Kartı,Evet
+753,16118,1589,Sinop,2,2023-08-09,380.89,Türkiye,Giyim,21,Diğer,Havale,Hayır
+728,11800,1698,Trabzon,4,2023-08-10,759.43,Türkiye,Giyim,62,Diğer,Havale,Evet
+869,13852,1202,Sinop,6,2023-08-11,803.63,Türkiye,Ev Eşyaları,46,Diğer,Kredi Kartı,Evet
+314,14759,1717,Aksaray,7,2023-08-12,673.18,Türkiye,Giyim,53,Diğer,Havale,Evet
+820,13707,1026,Yalova,3,2023-08-13,82.65,Türkiye,Ev Eşyaları,50,Erkek,Kredi Kartı,Evet
+109,19190,1591,İzmir,6,2023-08-14,797.28,Türkiye,Ev Eşyaları,39,Diğer,Kredi Kartı,Evet
+242,12590,1882,Adıyaman,2,2023-08-15,775.51,Türkiye,Giyim,44,Erkek,Kapıda Ödeme,Evet
+483,11484,1116,Kilis,7,2023-08-16,935.19,Türkiye,Elektronik,60,Kadın,Havale,Evet
+29,12293,1318,Bolu,3,2023-08-17,476.05,Türkiye,Ev Eşyaları,36,Erkek,Kredi Kartı,Hayır
+34,13661,1372,Elazığ,7,2023-08-18,597.91,Türkiye,Elektronik,59,Kadın,Kapıda Ödeme,Hayır
+1,12435,1725,Bartın,8,2023-08-19,129.3,Türkiye,Ev Eşyaları,55,Diğer,Havale,Evet
+126,19560,1591,Trabzon,2,2023-08-20,915.91,Türkiye,Elektronik,68,Kadın,Kapıda Ödeme,Hayır
+67,15306,1584,Yalova,7,2023-08-21,437.84,Türkiye,Giyim,38,Erkek,Kapıda Ödeme,Evet
+475,19225,1416,Kars,8,2023-08-22,312.84,Türkiye,Giyim,56,Diğer,Havale,Evet
+8,19178,1924,Burdur,3,2023-08-23,20.51,Türkiye,Elektronik,32,Kadın,Havale,Hayır
+446,19866,1947,İzmir,9,2023-08-24,840.02,Türkiye,Elektronik,57,Erkek,Kredi Kartı,Hayır
+351,15701,1992,Ardahan,9,2023-08-25,530.86,Türkiye,Giyim,45,Diğer,Kapıda Ödeme,Evet
+50,17122,1781,İzmir,8,2023-08-26,937.98,Türkiye,Giyim,55,Diğer,Kapıda Ödeme,Hayır
+509,10476,1999,Balıkesir,9,2023-08-27,249.27,Türkiye,Ev Eşyaları,47,Erkek,Havale,Evet
+901,14463,1669,Trabzon,6,2023-08-28,591.24,Türkiye,Giyim,46,Diğer,Kredi Kartı,Evet
+712,11795,1980,Kastamonu,9,2023-08-29,194.42,Türkiye,Giyim,64,Diğer,Kapıda Ödeme,Hayır
+654,16315,1911,Yalova,9,2023-08-30,427.91,Türkiye,Ev Eşyaları,24,Kadın,Kredi Kartı,Evet
+21,13017,1884,Siirt,3,2023-08-31,875.86,Türkiye,Giyim,59,Kadın,Kredi Kartı,Hayır
+613,18296,1395,Niğde,2,2023-09-01,280.12,Türkiye,Ev Eşyaları,31,Kadın,Kapıda Ödeme,Hayır
+959,10257,1245,Elazığ,5,2023-09-02,212.36,Türkiye,Ev Eşyaları,41,Kadın,Havale,Hayır
+478,17344,1594,Burdur,6,2023-09-03,920.38,Türkiye,Elektronik,49,Erkek,Havale,Hayır
+826,13781,1696,Tunceli,7,2023-09-04,55.79,Türkiye,Ev Eşyaları,61,Kadın,Kredi Kartı,Evet
+25,14321,1172,Isparta,7,2023-09-05,995.11,Türkiye,Elektronik,31,Diğer,Kredi Kartı,Evet
+940,17512,1470,Eskişehir,2,2023-09-06,721.25,Türkiye,Ev Eşyaları,36,Kadın,Kapıda Ödeme,Hayır
+817,14346,1950,Manisa,4,2023-09-07,387.43,Türkiye,Elektronik,51,Kadın,Havale,Hayır
+20,11291,1351,Kırıkkale,6,2023-09-08,834.36,Türkiye,Elektronik,66,Erkek,Kredi Kartı,Hayır
+899,14321,1749,Denizli,5,2023-09-09,190.7,Türkiye,Giyim,30,Erkek,Havale,Hayır
+436,12065,1149,Ağrı,4,2023-09-10,480.93,Türkiye,Ev Eşyaları,54,Kadın,Kredi Kartı,Evet
+879,14249,1847,Samsun,8,2023-09-11,30.11,Türkiye,Elektronik,29,Kadın,Kredi Kartı,Hayır
+637,17788,1788,Rize,5,2023-09-12,45.81,Türkiye,Giyim,58,Kadın,Kredi Kartı,Evet
+90,14466,1658,Sivas,5,2023-09-13,24.81,Türkiye,Elektronik,29,Kadın,Kredi Kartı,Evet
+35,16702,1965,Iğdır,4,2023-09-14,302.12,Türkiye,Ev Eşyaları,23,Diğer,Kapıda Ödeme,Hayır
+189,18489,1639,Hatay,2,2023-09-15,69.09,Türkiye,Ev Eşyaları,24,Diğer,Kapıda Ödeme,Evet
+415,16648,1629,Şanlıurfa,2,2023-09-16,717.22,Türkiye,Giyim,30,Diğer,Kapıda Ödeme,Evet
+208,11506,1074,Kilis,1,2023-09-17,738.21,Türkiye,Ev Eşyaları,41,Erkek,Kredi Kartı,Hayır
+735,17145,1004,Denizli,3,2023-09-18,316.73,Türkiye,Giyim,65,Kadın,Kapıda Ödeme,Hayır
+217,19157,1121,Malatya,9,2023-09-19,106.58,Türkiye,Giyim,68,Diğer,Kapıda Ödeme,Hayır
+578,19835,1382,Kars,3,2023-09-20,62.38,Türkiye,Elektronik,32,Kadın,Kredi Kartı,Hayır
+614,11160,1420,Amasya,4,2023-09-21,211.74,Türkiye,Elektronik,27,Diğer,Havale,Hayır
+341,15274,1054,Tunceli,6,2023-09-22,729.79,Türkiye,Elektronik,31,Kadın,Kapıda Ödeme,Evet
+804,19520,1776,Gaziantep,9,2023-09-23,699.51,Türkiye,Elektronik,44,Kadın,Kapıda Ödeme,Evet
+268,12550,1221,Uşak,1,2023-09-24,500.8,Türkiye,Giyim,35,Erkek,Havale,Hayır
+132,17380,1004,Tekirdağ,1,2023-09-25,779.23,Türkiye,Giyim,23,Erkek,Kapıda Ödeme,Hayır
+181,13064,1771,Bolu,2,2023-09-26,802.68,Türkiye,Ev Eşyaları,51,Diğer,Kredi Kartı,Evet
+719,11739,1997,Samsun,3,2023-09-27,898.59,Türkiye,Giyim,49,Kadın,Kapıda Ödeme,Hayır
+724,11589,1480,Tekirdağ,2,2023-09-28,573.55,Türkiye,Elektronik,60,Diğer,Havale,Evet
+171,19639,1603,Konya,8,2023-09-29,791.3,Türkiye,Giyim,48,Erkek,Havale,Hayır
+153,16920,1840,Şanlıurfa,4,2023-09-30,811.83,Türkiye,Elektronik,27,Erkek,Kapıda Ödeme,Evet
+551,10552,1180,Kastamonu,6,2023-10-01,385.43,Türkiye,Ev Eşyaları,69,Kadın,Kapıda Ödeme,Hayır
+199,10389,1544,Artvin,4,2023-10-02,653.83,Türkiye,Elektronik,19,Diğer,Kredi Kartı,Hayır
+589,12748,1791,Ankara,7,2023-10-03,651.99,Türkiye,Giyim,31,Erkek,Kredi Kartı,Evet
+119,10244,1359,Denizli,6,2023-10-04,537.26,Türkiye,Elektronik,38,Diğer,Havale,Hayır
+462,17212,1928,Tekirdağ,6,2023-10-05,537.55,Türkiye,Giyim,53,Erkek,Kredi Kartı,Hayır
+296,12902,1733,Ordu,1,2023-10-06,645.0,Türkiye,Elektronik,30,Diğer,Havale,Evet
+817,14211,1126,Batman,1,2023-10-07,502.24,Türkiye,Ev Eşyaları,59,Diğer,Kredi Kartı,Hayır
+791,17383,1125,İzmir,6,2023-10-08,147.41,Türkiye,Ev Eşyaları,32,Kadın,Kredi Kartı,Evet
+888,11854,1362,Samsun,3,2023-10-09,949.67,Türkiye,Giyim,55,Erkek,Kredi Kartı,Hayır
+850,17900,1178,Kırıkkale,1,2023-10-10,388.26,Türkiye,Elektronik,54,Kadın,Kredi Kartı,Evet
+765,15542,1493,Ordu,1,2023-10-11,826.84,Türkiye,Elektronik,25,Diğer,Havale,Evet
+885,11601,1832,Hatay,9,2023-10-12,102.47,Türkiye,Giyim,30,Kadın,Kredi Kartı,Evet
+199,16467,1492,Ordu,9,2023-10-13,272.61,Türkiye,Elektronik,50,Erkek,Kapıda Ödeme,Hayır
+435,11243,1898,Tunceli,6,2023-10-14,574.48,Türkiye,Ev Eşyaları,36,Diğer,Kredi Kartı,Evet
+904,15488,1301,Amasya,2,2023-10-15,977.5,Türkiye,Ev Eşyaları,31,Kadın,Kredi Kartı,Evet
+51,15978,1459,Sivas,9,2023-10-16,607.81,Türkiye,Elektronik,47,Diğer,Kapıda Ödeme,Evet
+491,16474,1477,Konya,4,2023-10-17,475.16,Türkiye,Elektronik,50,Kadın,Kapıda Ödeme,Hayır
+932,16545,1877,Kahramanmaraş,4,2023-10-18,474.88,Türkiye,Giyim,31,Diğer,Havale,Hayır
+458,11308,1669,Eskişehir,2,2023-10-19,768.13,Türkiye,Giyim,39,Diğer,Havale,Hayır
+734,12409,1743,Düzce,3,2023-10-20,666.27,Türkiye,Giyim,33,Diğer,Kapıda Ödeme,Hayır
+299,10635,1361,Şırnak,6,2023-10-21,508.59,Türkiye,Ev Eşyaları,55,Kadın,Kredi Kartı,Hayır
+278,16689,1982,Gaziantep,4,2023-10-22,39.93,Türkiye,Giyim,53,Kadın,Kapıda Ödeme,Evet
+966,19790,1343,Mardin,8,2023-10-23,480.83,Türkiye,Ev Eşyaları,27,Kadın,Kredi Kartı,Evet
+589,16239,1253,Sakarya,8,2023-10-24,269.15,Türkiye,Ev Eşyaları,48,Erkek,Kredi Kartı,Hayır
+541,16130,1975,Osmaniye,2,2023-10-25,156.76,Türkiye,Giyim,23,Erkek,Havale,Hayır
+924,14928,1810,Çankırı,4,2023-10-26,99.0,Türkiye,Ev Eşyaları,43,Erkek,Kapıda Ödeme,Hayır
+4,10258,1545,Karabük,9,2023-10-27,194.39,Türkiye,Giyim,50,Diğer,Kapıda Ödeme,Evet
+120,16395,1059,Bayburt,9,2023-10-28,896.83,Türkiye,Elektronik,49,Diğer,Havale,Hayır
+824,10613,1467,Siirt,9,2023-10-29,29.93,Türkiye,Elektronik,22,Erkek,Havale,Hayır
+44,14372,1402,Tunceli,5,2023-10-30,946.47,Türkiye,Elektronik,56,Kadın,Havale,Hayır
+906,10058,1370,Edirne,8,2023-10-31,223.21,Türkiye,Elektronik,55,Kadın,Havale,Hayır
+563,16203,1421,Ağrı,8,2023-11-01,84.71,Türkiye,Giyim,39,Erkek,Havale,Evet
+96,17320,1289,Bartın,9,2023-11-02,287.67,Türkiye,Giyim,49,Erkek,Kredi Kartı,Evet
+380,15876,1523,Kahramanmaraş,5,2023-11-03,391.94,Türkiye,Elektronik,53,Erkek,Havale,Evet
+485,13819,1662,Adana,2,2023-11-04,281.67,Türkiye,Giyim,61,Kadın,Havale,Hayır
+340,18325,1938,Yalova,3,2023-11-05,957.9,Türkiye,Elektronik,40,Erkek,Havale,Evet
+135,17920,1638,Tokat,4,2023-11-06,257.61,Türkiye,Ev Eşyaları,25,Kadın,Kredi Kartı,Evet
+715,14948,1568,Şırnak,1,2023-11-07,904.87,Türkiye,Elektronik,43,Kadın,Kredi Kartı,Evet
+628,16323,1443,Batman,3,2023-11-08,263.76,Türkiye,Giyim,65,Kadın,Havale,Hayır
+767,10730,1316,Giresun,2,2023-11-09,360.89,Türkiye,Giyim,18,Erkek,Kredi Kartı,Hayır
+667,18208,1687,Karaman,5,2023-11-10,522.33,Türkiye,Giyim,30,Diğer,Kapıda Ödeme,Hayır
+80,11101,1551,Yalova,3,2023-11-11,191.87,Türkiye,Ev Eşyaları,59,Kadın,Kredi Kartı,Hayır
+877,15435,1458,Artvin,9,2023-11-12,489.44,Türkiye,Giyim,23,Diğer,Havale,Hayır
+617,11165,1388,Kayseri,5,2023-11-13,422.24,Türkiye,Giyim,58,Erkek,Havale,Evet
+960,12195,1786,Elazığ,1,2023-11-14,419.45,Türkiye,Ev Eşyaları,39,Erkek,Havale,Hayır
+95,14599,1574,Ankara,5,2023-11-15,232.91,Türkiye,Elektronik,67,Diğer,Kapıda Ödeme,Hayır
+939,15841,1051,Samsun,5,2023-11-16,771.99,Türkiye,Ev Eşyaları,45,Diğer,Havale,Hayır
+527,14074,1172,Çankırı,3,2023-11-17,830.8,Türkiye,Giyim,59,Kadın,Kredi Kartı,Hayır
+304,19458,1811,Kayseri,6,2023-11-18,656.25,Türkiye,Giyim,43,Diğer,Kredi Kartı,Hayır
+469,19632,1278,Giresun,3,2023-11-19,340.96,Türkiye,Giyim,32,Erkek,Kapıda Ödeme,Hayır
+528,17556,1264,Kastamonu,3,2023-11-20,374.16,Türkiye,Elektronik,49,Kadın,Havale,Hayır
+653,10812,1337,Artvin,5,2023-11-21,38.56,Türkiye,Giyim,48,Diğer,Kapıda Ödeme,Evet
+217,19731,1934,Tunceli,1,2023-11-22,136.48,Türkiye,Elektronik,27,Kadın,Havale,Evet
+392,13269,1001,Trabzon,4,2023-11-23,167.34,Türkiye,Giyim,23,Kadın,Kredi Kartı,Evet
+490,14328,1042,Kırklareli,7,2023-11-24,878.94,Türkiye,Elektronik,21,Erkek,Kapıda Ödeme,Evet
+572,10753,1501,Çanakkale,6,2023-11-25,112.45,Türkiye,Elektronik,42,Diğer,Havale,Hayır
+853,17488,1609,Siirt,7,2023-11-26,948.59,Türkiye,Elektronik,21,Erkek,Kapıda Ödeme,Evet
+681,18187,1977,Sivas,2,2023-11-27,879.39,Türkiye,Ev Eşyaları,33,Kadın,Havale,Hayır
+638,12972,1650,Konya,2,2023-11-28,458.51,Türkiye,Elektronik,32,Kadın,Kredi Kartı,Hayır
+11,15438,1252,Iğdır,1,2023-11-29,173.83,Türkiye,Ev Eşyaları,61,Kadın,Kredi Kartı,Evet
+145,10035,1223,Kırıkkale,4,2023-11-30,820.16,Türkiye,Ev Eşyaları,20,Kadın,Kredi Kartı,Evet
+192,13350,1300,Bayburt,3,2023-12-01,432.27,Türkiye,Giyim,30,Kadın,Havale,Evet
+160,13989,1720,Muğla,9,2023-12-02,617.95,Türkiye,Elektronik,39,Erkek,Kapıda Ödeme,Hayır
+536,18966,1853,Niğde,9,2023-12-03,112.48,Türkiye,Elektronik,30,Erkek,Kapıda Ödeme,Evet
+635,13175,1715,Ankara,4,2023-12-04,884.74,Türkiye,Giyim,68,Erkek,Kapıda Ödeme,Evet
+795,14228,1226,Sivas,1,2023-12-05,805.48,Türkiye,Giyim,54,Diğer,Kredi Kartı,Hayır
+966,12213,1846,Kayseri,7,2023-12-06,152.26,Türkiye,Giyim,67,Diğer,Kapıda Ödeme,Hayır
+276,16234,1925,Muş,4,2023-12-07,846.39,Türkiye,Giyim,36,Diğer,Kapıda Ödeme,Hayır
+619,17261,1660,Sivas,9,2023-12-08,855.41,Türkiye,Elektronik,44,Diğer,Kredi Kartı,Evet
+715,17422,1016,Mardin,8,2023-12-09,113.12,Türkiye,Ev Eşyaları,43,Diğer,Kredi Kartı,Evet
+183,10949,1543,Tekirdağ,2,2023-12-10,844.83,Türkiye,Elektronik,44,Kadın,Kredi Kartı,Evet
+324,15425,1032,Isparta,9,2023-12-11,996.83,Türkiye,Ev Eşyaları,53,Erkek,Kredi Kartı,Hayır
+787,14646,1481,Adana,5,2023-12-12,995.7,Türkiye,Elektronik,52,Erkek,Kapıda Ödeme,Evet
+39,15644,1184,Sinop,3,2023-12-13,461.46,Türkiye,Elektronik,18,Erkek,Kapıda Ödeme,Hayır
+751,13377,1816,Çorum,1,2023-12-14,16.28,Türkiye,Giyim,41,Kadın,Kapıda Ödeme,Evet
+79,17952,1236,Sinop,4,2023-12-15,847.54,Türkiye,Giyim,18,Kadın,Kapıda Ödeme,Hayır
+317,12414,1701,Manisa,9,2023-12-16,731.36,Türkiye,Ev Eşyaları,27,Erkek,Kapıda Ödeme,Hayır
+179,10023,1472,Bayburt,1,2023-12-17,206.81,Türkiye,Elektronik,38,Diğer,Kapıda Ödeme,Hayır
+998,17593,1177,Diyarbakır,7,2023-12-18,42.95,Türkiye,Elektronik,22,Diğer,Kapıda Ödeme,Evet
+901,17949,1094,Kahramanmaraş,8,2023-12-19,780.99,Türkiye,Giyim,55,Kadın,Kredi Kartı,Hayır
+322,17263,1430,Kahramanmaraş,6,2023-12-20,773.64,Türkiye,Giyim,34,Diğer,Havale,Hayır
+589,19250,1898,Bayburt,7,2023-12-21,127.22,Türkiye,Ev Eşyaları,52,Diğer,Kredi Kartı,Evet
+539,19947,1998,Çorum,3,2023-12-22,468.59,Türkiye,Ev Eşyaları,29,Kadın,Havale,Evet
+750,17954,1737,Iğdır,9,2023-12-23,197.43,Türkiye,Giyim,59,Kadın,Kredi Kartı,Evet
+931,17183,1424,Yozgat,7,2023-12-24,125.5,Türkiye,Giyim,52,Erkek,Kredi Kartı,Hayır
+10,18752,1845,Niğde,8,2023-12-25,884.97,Türkiye,Elektronik,68,Kadın,Kapıda Ödeme,Hayır
+393,11947,1212,Kilis,6,2023-12-26,67.31,Türkiye,Ev Eşyaları,61,Kadın,Kredi Kartı,Evet
+498,15761,1287,Kars,4,2023-12-27,418.04,Türkiye,Giyim,35,Kadın,Havale,Hayır
+345,19373,1610,Giresun,3,2023-12-28,721.4,Türkiye,Giyim,57,Erkek,Kapıda Ödeme,Evet
+147,11896,1139,Iğdır,1,2023-12-29,813.49,Türkiye,Elektronik,25,Erkek,Kapıda Ödeme,Hayır
+705,12804,1002,Kırşehir,5,2023-12-30,283.92,Türkiye,Elektronik,59,Kadın,Kapıda Ödeme,Evet
+31,18126,1463,Ağrı,4,2023-12-31,806.44,Türkiye,Elektronik,61,Erkek,Kredi Kartı,Evet
+75,14261,1565,Tokat,7,2024-01-01,812.6,Türkiye,Elektronik,65,Erkek,Havale,Hayır
+511,14460,1636,Niğde,4,2024-01-02,950.27,Türkiye,Elektronik,20,Diğer,Kapıda Ödeme,Hayır
+988,15305,1008,Elazığ,4,2024-01-03,67.51,Türkiye,Elektronik,54,Erkek,Havale,Evet
+556,14891,1025,Bingöl,6,2024-01-04,951.07,Türkiye,Ev Eşyaları,29,Kadın,Havale,Evet
+577,15043,1603,Sinop,4,2024-01-05,415.72,Türkiye,Giyim,68,Kadın,Kredi Kartı,Evet
+216,19109,1547,Uşak,5,2024-01-06,337.45,Türkiye,Ev Eşyaları,18,Erkek,Kapıda Ödeme,Hayır
+729,19891,1245,Eskişehir,9,2024-01-07,428.73,Türkiye,Elektronik,44,Kadın,Kredi Kartı,Hayır
+113,18888,1443,Şanlıurfa,9,2024-01-08,927.0,Türkiye,Elektronik,30,Diğer,Kredi Kartı,Evet
+253,10212,1038,Bayburt,4,2024-01-09,279.33,Türkiye,Ev Eşyaları,56,Kadın,Havale,Evet
+701,13388,1766,Kastamonu,4,2024-01-10,697.21,Türkiye,Giyim,41,Diğer,Kredi Kartı,Hayır
+369,16169,1919,Bilecik,1,2024-01-11,668.02,Türkiye,Giyim,54,Erkek,Kapıda Ödeme,Evet
+548,19367,1609,Uşak,8,2024-01-12,53.4,Türkiye,Elektronik,41,Erkek,Kapıda Ödeme,Evet
+642,12684,1368,Bartın,6,2024-01-13,761.85,Türkiye,Elektronik,27,Diğer,Kredi Kartı,Hayır
+647,10796,1890,Kütahya,9,2024-01-14,359.88,Türkiye,Giyim,32,Kadın,Havale,Hayır
+915,17653,1968,Bingöl,4,2024-01-15,83.72,Türkiye,Giyim,21,Diğer,Kapıda Ödeme,Evet
+64,12899,1968,Manisa,9,2024-01-16,639.04,Türkiye,Ev Eşyaları,22,Erkek,Kredi Kartı,Hayır
+295,17070,1875,Çankırı,8,2024-01-17,461.12,Türkiye,Ev Eşyaları,61,Kadın,Kredi Kartı,Hayır
+32,12353,1916,Kırıkkale,5,2024-01-18,912.64,Türkiye,Elektronik,61,Kadın,Kredi Kartı,Hayır
+31,18588,1377,Şırnak,5,2024-01-19,872.68,Türkiye,Giyim,67,Kadın,Kredi Kartı,Hayır
+480,18059,1721,Osmaniye,6,2024-01-20,906.18,Türkiye,Ev Eşyaları,33,Diğer,Kapıda Ödeme,Hayır
+896,17185,1132,Ardahan,5,2024-01-21,677.22,Türkiye,Ev Eşyaları,64,Diğer,Havale,Hayır
+98,19083,1519,Yozgat,5,2024-01-22,947.9,Türkiye,Ev Eşyaları,25,Kadın,Kredi Kartı,Hayır
+379,19313,1314,Hakkari,2,2024-01-23,875.46,Türkiye,Giyim,36,Erkek,Kapıda Ödeme,Evet
+57,17199,1455,Denizli,8,2024-01-24,586.95,Türkiye,Elektronik,47,Erkek,Kredi Kartı,Hayır
+707,12020,1317,Yalova,4,2024-01-25,968.47,Türkiye,Ev Eşyaları,32,Diğer,Kapıda Ödeme,Evet
+891,17182,1585,Kütahya,2,2024-01-26,74.77,Türkiye,Ev Eşyaları,63,Diğer,Havale,Hayır
+301,14797,1406,Diyarbakır,8,2024-01-27,734.3,Türkiye,Elektronik,52,Erkek,Kredi Kartı,Evet
+976,18761,1729,Çanakkale,1,2024-01-28,957.83,Türkiye,Giyim,29,Diğer,Havale,Evet
+741,19731,1601,Mardin,6,2024-01-29,291.0,Türkiye,Giyim,26,Kadın,Havale,Evet
+641,11586,1166,Giresun,9,2024-01-30,878.91,Türkiye,Giyim,35,Kadın,Kredi Kartı,Hayır
+720,12143,1904,Aydın,9,2024-01-31,471.43,Türkiye,Giyim,50,Diğer,Havale,Hayır
+802,18515,1953,Çankırı,6,2024-02-01,562.95,Türkiye,Ev Eşyaları,61,Erkek,Kapıda Ödeme,Evet
+482,14206,1486,Ardahan,1,2024-02-02,21.14,Türkiye,Elektronik,63,Kadın,Kapıda Ödeme,Evet
+591,12632,1951,Konya,4,2024-02-03,586.49,Türkiye,Ev Eşyaları,60,Diğer,Havale,Hayır
+572,14986,1966,Gümüşhane,9,2024-02-04,226.08,Türkiye,Ev Eşyaları,39,Erkek,Havale,Evet
+507,17767,1828,Aksaray,8,2024-02-05,942.86,Türkiye,Giyim,48,Kadın,Kredi Kartı,Evet
+925,19494,1922,Bilecik,2,2024-02-06,162.22,Türkiye,Giyim,64,Diğer,Kredi Kartı,Hayır
+879,13316,1340,Adana,1,2024-02-07,720.81,Türkiye,Elektronik,19,Erkek,Kredi Kartı,Hayır
+311,13158,1755,Manisa,5,2024-02-08,207.75,Türkiye,Ev Eşyaları,30,Erkek,Havale,Evet
+580,18891,1258,Karaman,5,2024-02-09,967.04,Türkiye,Elektronik,58,Erkek,Kredi Kartı,Evet
+518,10207,1453,Aksaray,9,2024-02-10,266.8,Türkiye,Ev Eşyaları,50,Diğer,Kapıda Ödeme,Evet
+201,12602,1461,Uşak,4,2024-02-11,897.8,Türkiye,Elektronik,64,Diğer,Kapıda Ödeme,Evet
+279,17599,1068,Sivas,6,2024-02-12,620.28,Türkiye,Elektronik,35,Diğer,Kredi Kartı,Hayır
+240,17105,1326,Çankırı,3,2024-02-13,31.06,Türkiye,Elektronik,44,Diğer,Kredi Kartı,Evet
+449,14199,1285,Uşak,4,2024-02-14,441.4,Türkiye,Elektronik,21,Kadın,Havale,Hayır
+248,12630,1187,Hakkari,4,2024-02-15,81.51,Türkiye,Ev Eşyaları,47,Kadın,Kapıda Ödeme,Hayır
+801,16364,1091,Yozgat,7,2024-02-16,55.56,Türkiye,Giyim,36,Kadın,Kredi Kartı,Hayır
+745,17072,1093,Erzincan,2,2024-02-17,483.45,Türkiye,Ev Eşyaları,25,Kadın,Havale,Evet
+179,14055,1102,Mersin,5,2024-02-18,549.06,Türkiye,Elektronik,57,Erkek,Havale,Evet
+638,11370,1729,Karaman,5,2024-02-19,732.43,Türkiye,Ev Eşyaları,69,Erkek,Havale,Hayır
+464,17436,1803,Siirt,3,2024-02-20,30.19,Türkiye,Elektronik,50,Diğer,Kredi Kartı,Hayır
+962,11037,1578,Şanlıurfa,5,2024-02-21,610.35,Türkiye,Ev Eşyaları,29,Diğer,Kapıda Ödeme,Evet
+361,15377,1989,Osmaniye,4,2024-02-22,878.16,Türkiye,Ev Eşyaları,57,Erkek,Havale,Evet
+812,11248,1478,Ordu,2,2024-02-23,917.71,Türkiye,Giyim,46,Kadın,Kapıda Ödeme,Hayır
+69,18445,1866,Erzincan,5,2024-02-24,839.92,Türkiye,Ev Eşyaları,33,Kadın,Havale,Hayır
+983,13491,1139,Kastamonu,8,2024-02-25,255.91,Türkiye,Giyim,59,Kadın,Havale,Hayır
+941,13054,1699,Aydın,8,2024-02-26,861.67,Türkiye,Elektronik,50,Kadın,Havale,Hayır
+896,16340,1653,Bitlis,5,2024-02-27,203.03,Türkiye,Ev Eşyaları,47,Diğer,Kapıda Ödeme,Hayır
+914,19875,1421,Bitlis,2,2024-02-28,19.29,Türkiye,Ev Eşyaları,53,Diğer,Kredi Kartı,Hayır
+693,14048,1806,Erzurum,9,2024-02-29,995.92,Türkiye,Ev Eşyaları,43,Diğer,Kredi Kartı,Evet
+827,14254,1717,Elazığ,3,2024-03-01,669.35,Türkiye,Ev Eşyaları,26,Kadın,Kredi Kartı,Evet
+994,19662,1485,Hatay,1,2024-03-02,703.69,Türkiye,Elektronik,59,Kadın,Kapıda Ödeme,Evet
+595,12588,1587,Afyonkarahisar,5,2024-03-03,728.46,Türkiye,Ev Eşyaları,47,Diğer,Kapıda Ödeme,Hayır
+260,15208,1459,Çankırı,4,2024-03-04,784.52,Türkiye,Giyim,34,Erkek,Kapıda Ödeme,Hayır
+961,18057,1759,Iğdır,6,2024-03-05,933.95,Türkiye,Elektronik,42,Kadın,Kredi Kartı,Hayır
+438,11036,1607,Yalova,4,2024-03-06,899.33,Türkiye,Elektronik,34,Erkek,Kredi Kartı,Hayır
+972,14860,1535,Manisa,7,2024-03-07,325.65,Türkiye,Ev Eşyaları,60,Diğer,Havale,Hayır
+516,16476,1471,Rize,8,2024-03-08,512.67,Türkiye,Ev Eşyaları,35,Kadın,Kredi Kartı,Hayır
+276,14478,1576,Sakarya,8,2024-03-09,156.88,Türkiye,Ev Eşyaları,24,Kadın,Kapıda Ödeme,Evet
+738,12866,1970,Bursa,2,2024-03-10,772.07,Türkiye,Ev Eşyaları,45,Erkek,Kapıda Ödeme,Hayır
+876,10175,1579,Aydın,8,2024-03-11,218.11,Türkiye,Ev Eşyaları,52,Kadın,Havale,Hayır
+52,12634,1306,Antalya,9,2024-03-12,924.16,Türkiye,Elektronik,57,Diğer,Kapıda Ödeme,Hayır
+847,16168,1261,Muş,6,2024-03-13,145.92,Türkiye,Elektronik,26,Diğer,Kredi Kartı,Hayır
+491,11684,1601,Bursa,5,2024-03-14,200.82,Türkiye,Elektronik,69,Kadın,Kapıda Ödeme,Evet
+19,15054,1328,Adana,2,2024-03-15,465.71,Türkiye,Elektronik,44,Diğer,Kredi Kartı,Evet
+763,14032,1767,Denizli,8,2024-03-16,711.56,Türkiye,Giyim,23,Diğer,Havale,Evet
+622,17075,1588,Muş,1,2024-03-17,877.06,Türkiye,Elektronik,32,Erkek,Kapıda Ödeme,Evet
+80,12124,1920,Karaman,7,2024-03-18,716.63,Türkiye,Giyim,66,Diğer,Kredi Kartı,Hayır
+93,12239,1952,Gaziantep,6,2024-03-19,42.25,Türkiye,Giyim,23,Kadın,Kredi Kartı,Evet
+876,11400,1590,Bolu,9,2024-03-20,310.91,Türkiye,Giyim,26,Kadın,Kapıda Ödeme,Evet
+823,17158,1193,Eskişehir,7,2024-03-21,386.08,Türkiye,Ev Eşyaları,43,Kadın,Kredi Kartı,Evet
+414,14579,1516,Muş,8,2024-03-22,104.67,Türkiye,Elektronik,41,Erkek,Kredi Kartı,Hayır
+815,10537,1923,Uşak,5,2024-03-23,932.23,Türkiye,Ev Eşyaları,41,Kadın,Kredi Kartı,Hayır
+428,15911,1075,Edirne,1,2024-03-24,903.94,Türkiye,Elektronik,26,Diğer,Kapıda Ödeme,Hayır
+126,12541,1248,Erzincan,8,2024-03-25,206.21,Türkiye,Elektronik,69,Kadın,Kredi Kartı,Hayır
+147,15596,1896,Burdur,4,2024-03-26,710.52,Türkiye,Elektronik,45,Diğer,Kredi Kartı,Hayır
+342,17258,1340,Gümüşhane,6,2024-03-27,233.27,Türkiye,Ev Eşyaları,35,Diğer,Kredi Kartı,Hayır
+493,14364,1854,Elazığ,5,2024-03-28,907.5,Türkiye,Elektronik,25,Diğer,Havale,Evet
+286,10324,1824,Sakarya,5,2024-03-29,666.67,Türkiye,Giyim,59,Kadın,Kapıda Ödeme,Hayır
+450,16345,1847,Manisa,7,2024-03-30,123.89,Türkiye,Elektronik,23,Diğer,Kredi Kartı,Evet
+619,11932,1804,Muğla,8,2024-03-31,140.86,Türkiye,Ev Eşyaları,65,Erkek,Havale,Hayır
+432,10401,1929,Niğde,6,2024-04-01,288.59,Türkiye,Giyim,29,Kadın,Kredi Kartı,Evet
+666,18079,1673,Karabük,8,2024-04-02,880.68,Türkiye,Ev Eşyaları,69,Erkek,Havale,Evet
+301,12138,1727,Burdur,7,2024-04-03,882.2,Türkiye,Ev Eşyaları,37,Erkek,Kapıda Ödeme,Evet
+878,17405,1596,Ardahan,9,2024-04-04,947.04,Türkiye,Elektronik,42,Diğer,Kapıda Ödeme,Hayır
+70,17838,1920,Gümüşhane,9,2024-04-05,98.88,Türkiye,Giyim,38,Erkek,Kapıda Ödeme,Evet
+305,10167,1996,Aksaray,1,2024-04-06,254.58,Türkiye,Elektronik,39,Diğer,Kapıda Ödeme,Hayır
+192,14427,1387,Denizli,4,2024-04-07,164.49,Türkiye,Giyim,58,Diğer,Havale,Hayır
+95,16138,1114,Van,8,2024-04-08,468.95,Türkiye,Ev Eşyaları,36,Kadın,Kapıda Ödeme,Hayır
+999,18638,1593,Mersin,3,2024-04-09,221.57,Türkiye,Giyim,55,Diğer,Kapıda Ödeme,Evet
+494,17562,1687,Erzurum,9,2024-04-10,708.56,Türkiye,Elektronik,48,Kadın,Kredi Kartı,Evet
+172,11648,1237,Sivas,2,2024-04-11,753.2,Türkiye,Elektronik,49,Diğer,Havale,Evet
+667,17161,1454,Yozgat,3,2024-04-12,758.45,Türkiye,Ev Eşyaları,65,Diğer,Kredi Kartı,Evet
+703,18662,1241,Siirt,3,2024-04-13,934.71,Türkiye,Giyim,47,Erkek,Kredi Kartı,Evet
+923,11018,1595,Denizli,1,2024-04-14,778.91,Türkiye,Elektronik,24,Kadın,Kapıda Ödeme,Evet
+925,13633,1830,Aksaray,3,2024-04-15,812.39,Türkiye,Giyim,42,Diğer,Havale,Evet
+993,13679,1526,Aydın,9,2024-04-16,554.83,Türkiye,Ev Eşyaları,34,Erkek,Kredi Kartı,Hayır
+568,12932,1853,Edirne,3,2024-04-17,427.16,Türkiye,Elektronik,19,Diğer,Havale,Hayır
+32,13879,1574,Bingöl,4,2024-04-18,375.11,Türkiye,Elektronik,53,Kadın,Kapıda Ödeme,Hayır
+646,11323,1192,Muş,5,2024-04-19,372.11,Türkiye,Elektronik,61,Kadın,Kapıda Ödeme,Hayır
+361,16580,1925,Yalova,7,2024-04-20,638.52,Türkiye,Ev Eşyaları,54,Diğer,Kredi Kartı,Evet
+843,10154,1580,Erzincan,3,2024-04-21,792.97,Türkiye,Giyim,34,Kadın,Kapıda Ödeme,Hayır
+857,17415,1437,Samsun,3,2024-04-22,530.96,Türkiye,Giyim,29,Kadın,Kapıda Ödeme,Hayır
+756,15522,1835,Burdur,8,2024-04-23,306.95,Türkiye,Giyim,40,Diğer,Havale,Hayır
+564,13249,1415,Adıyaman,2,2024-04-24,14.41,Türkiye,Elektronik,27,Diğer,Kredi Kartı,Evet
+634,19181,1190,Hatay,9,2024-04-25,615.21,Türkiye,Elektronik,26,Kadın,Kredi Kartı,Hayır
+985,10607,1759,Sinop,7,2024-04-26,375.15,Türkiye,Giyim,68,Diğer,Kapıda Ödeme,Hayır
+140,16726,1417,Erzincan,4,2024-04-27,241.46,Türkiye,Ev Eşyaları,45,Kadın,Kredi Kartı,Evet
+462,19617,1516,Samsun,8,2024-04-28,728.73,Türkiye,Elektronik,23,Erkek,Havale,Evet
+724,15289,1518,Bilecik,1,2024-04-29,16.48,Türkiye,Elektronik,59,Kadın,Kredi Kartı,Evet
+875,14284,1566,İzmir,6,2024-04-30,597.21,Türkiye,Giyim,57,Kadın,Kapıda Ödeme,Hayır
+102,13400,1472,Bolu,8,2024-05-01,61.81,Türkiye,Elektronik,52,Erkek,Kapıda Ödeme,Evet
+231,10132,1858,Samsun,3,2024-05-02,605.3,Türkiye,Ev Eşyaları,23,Kadın,Kredi Kartı,Evet
+369,14948,1672,Yozgat,8,2024-05-03,33.33,Türkiye,Ev Eşyaları,27,Diğer,Kapıda Ödeme,Evet
+658,17305,1738,Zonguldak,4,2024-05-04,507.38,Türkiye,Giyim,35,Diğer,Kredi Kartı,Hayır
+573,10279,1592,Kayseri,8,2024-05-05,83.52,Türkiye,Ev Eşyaları,27,Erkek,Kapıda Ödeme,Hayır
+871,13023,1117,Kars,4,2024-05-06,985.07,Türkiye,Elektronik,27,Erkek,Kapıda Ödeme,Evet
+174,17522,1667,Ordu,5,2024-05-07,236.7,Türkiye,Elektronik,61,Erkek,Havale,Evet
+861,16590,1199,Ardahan,4,2024-05-08,316.72,Türkiye,Ev Eşyaları,65,Erkek,Kredi Kartı,Evet
+917,12933,1061,Rize,6,2024-05-09,637.99,Türkiye,Ev Eşyaları,23,Kadın,Kapıda Ödeme,Hayır
+48,18611,1126,Ankara,7,2024-05-10,427.42,Türkiye,Ev Eşyaları,36,Kadın,Kredi Kartı,Hayır
+978,13141,1965,Eskişehir,4,2024-05-11,738.36,Türkiye,Giyim,55,Diğer,Kredi Kartı,Hayır
+713,11350,1527,Muş,2,2024-05-12,730.19,Türkiye,Elektronik,29,Kadın,Kredi Kartı,Evet
+279,12995,1936,Adıyaman,4,2024-05-13,991.53,Türkiye,Elektronik,19,Kadın,Kredi Kartı,Evet
+201,11867,1774,Sinop,4,2024-05-14,656.05,Türkiye,Elektronik,30,Erkek,Kredi Kartı,Hayır
+157,10079,1065,Kırşehir,7,2024-05-15,352.15,Türkiye,Ev Eşyaları,46,Erkek,Kredi Kartı,Evet
+89,13153,1855,Edirne,9,2024-05-16,714.07,Türkiye,Elektronik,63,Diğer,Kapıda Ödeme,Hayır
+362,19886,1021,Denizli,1,2024-05-17,307.22,Türkiye,Elektronik,56,Kadın,Kapıda Ödeme,Hayır
+111,10601,1681,Uşak,5,2024-05-18,947.76,Türkiye,Giyim,66,Erkek,Kapıda Ödeme,Hayır
+951,14826,1003,İzmir,3,2024-05-19,548.96,Türkiye,Elektronik,40,Kadın,Kredi Kartı,Evet
+368,15735,1439,Kocaeli,8,2024-05-20,691.66,Türkiye,Elektronik,32,Kadın,Havale,Evet
+412,11949,1620,Artvin,2,2024-05-21,980.94,Türkiye,Elektronik,44,Erkek,Havale,Hayır
+176,12118,1064,Düzce,6,2024-05-22,928.77,Türkiye,Elektronik,43,Kadın,Kredi Kartı,Evet
+385,11465,1088,Diyarbakır,7,2024-05-23,854.37,Türkiye,Elektronik,52,Erkek,Kapıda Ödeme,Hayır
+916,14656,1109,Tekirdağ,2,2024-05-24,986.69,Türkiye,Giyim,58,Kadın,Kredi Kartı,Hayır
+970,10662,1656,Eskişehir,9,2024-05-25,164.46,Türkiye,Ev Eşyaları,51,Erkek,Havale,Evet
+929,13235,1299,Karabük,6,2024-05-26,628.85,Türkiye,Ev Eşyaları,28,Erkek,Havale,Evet
+847,18874,1107,Kastamonu,7,2024-05-27,168.06,Türkiye,Ev Eşyaları,29,Erkek,Kredi Kartı,Evet
+505,14053,1368,Kütahya,1,2024-05-28,755.3,Türkiye,Elektronik,40,Diğer,Havale,Evet
+339,19999,1302,Eskişehir,4,2024-05-29,34.78,Türkiye,Elektronik,18,Diğer,Havale,Hayır
+856,12154,1162,Kahramanmaraş,4,2024-05-30,106.94,Türkiye,Giyim,61,Erkek,Havale,Evet
+573,12737,1453,Bursa,3,2024-05-31,735.49,Türkiye,Giyim,30,Kadın,Havale,Evet
+312,15735,1738,Ordu,5,2024-06-01,812.81,Türkiye,Ev Eşyaları,40,Erkek,Kapıda Ödeme,Hayır
+753,10135,1073,Adana,8,2024-06-02,233.2,Türkiye,Giyim,56,Diğer,Kredi Kartı,Evet
+464,17085,1831,Osmaniye,4,2024-06-03,462.08,Türkiye,Ev Eşyaları,25,Erkek,Havale,Evet
+442,15396,1667,Bartın,1,2024-06-04,831.65,Türkiye,Elektronik,18,Erkek,Kredi Kartı,Evet
+975,14287,1466,Muğla,9,2024-06-05,309.3,Türkiye,Ev Eşyaları,47,Erkek,Kredi Kartı,Evet
+280,17460,1342,İzmir,4,2024-06-06,953.77,Türkiye,Ev Eşyaları,26,Kadın,Kapıda Ödeme,Hayır
+986,15453,1875,Mersin,2,2024-06-07,457.22,Türkiye,Giyim,53,Kadın,Havale,Hayır
+19,12477,1530,Niğde,3,2024-06-08,185.08,Türkiye,Elektronik,26,Kadın,Kredi Kartı,Evet
+788,17929,1131,Batman,7,2024-06-09,602.02,Türkiye,Giyim,63,Diğer,Kredi Kartı,Hayır
+818,11549,1369,Kırklareli,7,2024-06-10,990.68,Türkiye,Giyim,35,Diğer,Kredi Kartı,Hayır
+471,13839,1612,Konya,5,2024-06-11,862.39,Türkiye,Ev Eşyaları,62,Kadın,Kredi Kartı,Hayır
+723,19071,1343,Denizli,7,2024-06-12,153.95,Türkiye,Giyim,56,Kadın,Kredi Kartı,Hayır
+417,16924,1055,Kayseri,2,2024-06-13,121.03,Türkiye,Elektronik,55,Kadın,Kredi Kartı,Hayır
+814,14428,1825,Bolu,4,2024-06-14,211.82,Türkiye,Giyim,49,Diğer,Kapıda Ödeme,Hayır
+966,10531,1273,Yozgat,2,2024-06-15,755.19,Türkiye,Giyim,32,Kadın,Kapıda Ödeme,Evet
+349,11087,1639,Tunceli,1,2024-06-16,44.54,Türkiye,Giyim,65,Erkek,Havale,Evet
+420,16167,1775,Kocaeli,3,2024-06-17,609.34,Türkiye,Ev Eşyaları,45,Kadın,Havale,Hayır
+515,10181,1186,Siirt,5,2024-06-18,740.81,Türkiye,Ev Eşyaları,60,Diğer,Kapıda Ödeme,Evet
+858,11759,1353,Aydın,7,2024-06-19,314.92,Türkiye,Elektronik,29,Erkek,Kredi Kartı,Hayır
+207,13577,1913,Tunceli,5,2024-06-20,909.72,Türkiye,Giyim,67,Kadın,Kredi Kartı,Evet
+375,10111,1185,Hakkari,1,2024-06-21,294.66,Türkiye,Elektronik,22,Diğer,Havale,Evet
+565,11044,1659,Hakkari,8,2024-06-22,231.8,Türkiye,Ev Eşyaları,24,Diğer,Havale,Hayır
+998,15750,1724,Kayseri,1,2024-06-23,318.08,Türkiye,Elektronik,68,Diğer,Havale,Evet
+851,17960,1223,Bartın,1,2024-06-24,856.89,Türkiye,Giyim,68,Diğer,Kapıda Ödeme,Evet
+757,12427,1361,Bingöl,3,2024-06-25,620.52,Türkiye,Elektronik,31,Diğer,Kredi Kartı,Evet
+896,18398,1687,Bartın,6,2024-06-26,891.24,Türkiye,Giyim,20,Erkek,Kapıda Ödeme,Evet
+348,14991,1031,Malatya,3,2024-06-27,47.73,Türkiye,Elektronik,33,Kadın,Kapıda Ödeme,Hayır
+583,15399,1429,Düzce,3,2024-06-28,880.62,Türkiye,Ev Eşyaları,38,Kadın,Kredi Kartı,Evet
+697,11681,1175,Hatay,8,2024-06-29,445.5,Türkiye,Giyim,56,Erkek,Kapıda Ödeme,Hayır
+741,13551,1494,Çanakkale,9,2024-06-30,15.73,Türkiye,Elektronik,55,Diğer,Havale,Hayır
+659,13571,1524,Bursa,4,2024-07-01,728.96,Türkiye,Ev Eşyaları,54,Diğer,Kredi Kartı,Hayır
+644,18092,1621,Antalya,9,2024-07-02,966.95,Türkiye,Giyim,36,Erkek,Kredi Kartı,Evet
+157,12579,1353,Kayseri,6,2024-07-03,769.4,Türkiye,Elektronik,66,Diğer,Kredi Kartı,Hayır
+748,11525,1247,Yozgat,2,2024-07-04,17.49,Türkiye,Elektronik,47,Kadın,Havale,Evet
+808,12073,1823,Trabzon,2,2024-07-05,656.65,Türkiye,Elektronik,51,Erkek,Kapıda Ödeme,Hayır
+939,10904,1742,Kırıkkale,4,2024-07-06,948.49,Türkiye,Giyim,46,Kadın,Kapıda Ödeme,Hayır
+694,11011,1156,Tekirdağ,9,2024-07-07,900.46,Türkiye,Elektronik,47,Erkek,Kredi Kartı,Evet
+639,19451,1619,Artvin,6,2024-07-08,764.5,Türkiye,Giyim,27,Kadın,Havale,Evet
+199,11812,1594,Kastamonu,1,2024-07-09,311.13,Türkiye,Elektronik,69,Erkek,Havale,Evet
+798,18248,1933,Kilis,6,2024-07-10,978.86,Türkiye,Ev Eşyaları,34,Erkek,Kapıda Ödeme,Evet
+398,11555,1128,Niğde,9,2024-07-11,222.32,Türkiye,Elektronik,37,Erkek,Kapıda Ödeme,Evet
+767,12319,1562,Ardahan,1,2024-07-12,564.19,Türkiye,Elektronik,20,Diğer,Havale,Evet
+908,18912,1038,Bingöl,1,2024-07-13,446.14,Türkiye,Elektronik,33,Diğer,Havale,Evet
+777,11447,1097,Uşak,6,2024-07-14,98.97,Türkiye,Giyim,66,Diğer,Kredi Kartı,Hayır
+755,11759,1879,Kırklareli,5,2024-07-15,713.06,Türkiye,Elektronik,52,Erkek,Havale,Hayır
+298,18976,1453,Gümüşhane,4,2024-07-16,91.46,Türkiye,Elektronik,25,Kadın,Kapıda Ödeme,Hayır
+872,10254,1029,Hakkari,9,2024-07-17,640.17,Türkiye,Elektronik,25,Erkek,Kredi Kartı,Hayır
+184,15158,1756,Kırklareli,3,2024-07-18,186.28,Türkiye,Giyim,30,Erkek,Kredi Kartı,Hayır
+16,11324,1052,Ağrı,4,2024-07-19,824.41,Türkiye,Giyim,22,Diğer,Kapıda Ödeme,Hayır
+744,19397,1759,Çankırı,9,2024-07-20,236.32,Türkiye,Ev Eşyaları,26,Erkek,Kredi Kartı,Hayır
+575,11184,1362,Nevşehir,5,2024-07-21,678.96,Türkiye,Giyim,67,Erkek,Kredi Kartı,Hayır
+438,19447,1073,Kayseri,8,2024-07-22,930.26,Türkiye,Ev Eşyaları,43,Erkek,Kredi Kartı,Evet
+371,16554,1343,Yalova,5,2024-07-23,471.31,Türkiye,Giyim,44,Diğer,Havale,Evet
+164,16485,1760,Isparta,6,2024-07-24,947.45,Türkiye,Elektronik,42,Diğer,Kredi Kartı,Evet
+931,15917,1437,Trabzon,4,2024-07-25,534.26,Türkiye,Ev Eşyaları,41,Erkek,Kapıda Ödeme,Evet
+387,11590,1531,Isparta,3,2024-07-26,341.14,Türkiye,Giyim,42,Erkek,Kapıda Ödeme,Evet
+480,14355,1270,İzmir,3,2024-07-27,77.32,Türkiye,Ev Eşyaları,67,Erkek,Havale,Evet
+611,17400,1746,Bartın,7,2024-07-28,681.99,Türkiye,Ev Eşyaları,69,Diğer,Havale,Hayır
+673,13286,1679,Uşak,6,2024-07-29,807.2,Türkiye,Ev Eşyaları,47,Kadın,Havale,Hayır
+385,15610,1716,Ağrı,4,2024-07-30,667.98,Türkiye,Ev Eşyaları,38,Diğer,Kredi Kartı,Evet
+69,17447,1432,Muğla,4,2024-07-31,160.93,Türkiye,Giyim,44,Erkek,Kredi Kartı,Evet
+739,16921,1072,Nevşehir,8,2024-08-01,141.67,Türkiye,Giyim,32,Erkek,Kapıda Ödeme,Evet
+639,17513,1375,Zonguldak,5,2024-08-02,761.14,Türkiye,Giyim,24,Erkek,Havale,Evet
+334,11973,1568,İzmir,1,2024-08-03,779.7,Türkiye,Giyim,36,Kadın,Kapıda Ödeme,Hayır
+632,17662,1847,Samsun,3,2024-08-04,398.45,Türkiye,Elektronik,46,Erkek,Kredi Kartı,Evet
+122,13878,1716,Aydın,3,2024-08-05,785.66,Türkiye,Ev Eşyaları,51,Erkek,Kredi Kartı,Evet
+1,17925,1915,Ankara,9,2024-08-06,740.29,Türkiye,Giyim,59,Erkek,Kapıda Ödeme,Hayır
+442,16583,1799,Diyarbakır,9,2024-08-07,355.7,Türkiye,Elektronik,37,Erkek,Kredi Kartı,Evet
+829,19843,1405,Hakkari,8,2024-08-08,617.04,Türkiye,Elektronik,45,Kadın,Kapıda Ödeme,Evet
+791,19274,1762,Şanlıurfa,4,2024-08-09,931.1,Türkiye,Giyim,63,Erkek,Kapıda Ödeme,Evet
+345,18507,1608,Muğla,9,2024-08-10,335.81,Türkiye,Giyim,40,Kadın,Kredi Kartı,Evet
+161,17661,1146,Adana,8,2024-08-11,678.5,Türkiye,Elektronik,38,Kadın,Havale,Evet
+319,10022,1168,Mardin,6,2024-08-12,742.28,Türkiye,Giyim,20,Kadın,Kredi Kartı,Evet
+572,18092,1016,Yalova,9,2024-08-13,113.62,Türkiye,Elektronik,20,Kadın,Havale,Hayır
+902,10825,1942,Gümüşhane,1,2024-08-14,903.45,Türkiye,Ev Eşyaları,41,Erkek,Kapıda Ödeme,Evet
+600,17076,1662,İstanbul,8,2024-08-15,40.17,Türkiye,Ev Eşyaları,60,Erkek,Kapıda Ödeme,Evet
+751,13181,1358,Niğde,7,2024-08-16,81.87,Türkiye,Giyim,23,Diğer,Kredi Kartı,Hayır
+455,16042,1814,Ağrı,9,2024-08-17,372.15,Türkiye,Giyim,21,Kadın,Kapıda Ödeme,Hayır
+295,15177,1427,Yalova,4,2024-08-18,499.62,Türkiye,Giyim,61,Diğer,Havale,Hayır
+30,13553,1389,Muş,7,2024-08-19,62.0,Türkiye,Ev Eşyaları,53,Kadın,Havale,Evet
+617,13321,1559,Bayburt,6,2024-08-20,314.69,Türkiye,Ev Eşyaları,49,Erkek,Kredi Kartı,Hayır
+36,18545,1579,Zonguldak,2,2024-08-21,392.81,Türkiye,Giyim,33,Kadın,Kapıda Ödeme,Hayır
+340,12667,1786,Çorum,1,2024-08-22,612.54,Türkiye,Ev Eşyaları,49,Erkek,Kapıda Ödeme,Hayır
+928,18499,1141,Aksaray,7,2024-08-23,628.69,Türkiye,Giyim,30,Erkek,Havale,Hayır
+118,18786,1652,Aksaray,8,2024-08-24,679.28,Türkiye,Elektronik,66,Erkek,Havale,Evet
+288,19313,1310,Kahramanmaraş,3,2024-08-25,866.08,Türkiye,Elektronik,58,Erkek,Havale,Hayır
+630,10455,1177,Manisa,1,2024-08-26,18.01,Türkiye,Ev Eşyaları,26,Kadın,Havale,Evet
+2,11528,1137,Kocaeli,1,2024-08-27,238.88,Türkiye,Elektronik,58,Diğer,Kredi Kartı,Hayır
+604,14252,1992,Diyarbakır,8,2024-08-28,619.75,Türkiye,Giyim,66,Diğer,Kapıda Ödeme,Hayır
+517,14641,1979,Sivas,1,2024-08-29,855.97,Türkiye,Elektronik,52,Diğer,Kapıda Ödeme,Hayır
+316,15455,1556,Osmaniye,5,2024-08-30,948.28,Türkiye,Giyim,34,Kadın,Havale,Hayır
+471,12380,1432,Bartın,1,2024-08-31,297.27,Türkiye,Elektronik,33,Erkek,Kredi Kartı,Hayır
+249,16021,1959,Çorum,5,2024-09-01,119.05,Türkiye,Giyim,68,Erkek,Kapıda Ödeme,Hayır
+377,11904,1682,Ordu,5,2024-09-02,496.27,Türkiye,Ev Eşyaları,53,Kadın,Kredi Kartı,Hayır
+768,14597,1440,Kahramanmaraş,7,2024-09-03,894.62,Türkiye,Ev Eşyaları,18,Erkek,Kredi Kartı,Hayır
+592,11587,1476,Isparta,1,2024-09-04,232.32,Türkiye,Ev Eşyaları,65,Erkek,Kredi Kartı,Hayır
+888,16888,1443,Tekirdağ,3,2024-09-05,967.9,Türkiye,Ev Eşyaları,22,Diğer,Kapıda Ödeme,Evet
+439,19874,1782,Bolu,2,2024-09-06,432.68,Türkiye,Elektronik,45,Kadın,Kredi Kartı,Hayır
+335,12392,1376,Elazığ,1,2024-09-07,160.73,Türkiye,Elektronik,24,Kadın,Kapıda Ödeme,Hayır
+376,16483,1544,Samsun,7,2024-09-08,101.54,Türkiye,Ev Eşyaları,47,Diğer,Kapıda Ödeme,Hayır
+859,16613,1814,Kırıkkale,6,2024-09-09,734.63,Türkiye,Ev Eşyaları,57,Kadın,Kredi Kartı,Evet
+976,11922,1839,Çankırı,1,2024-09-10,799.7,Türkiye,Giyim,61,Diğer,Kredi Kartı,Evet
+479,17517,1648,Karabük,8,2024-09-11,70.26,Türkiye,Ev Eşyaları,33,Kadın,Havale,Evet
+692,15659,1676,Van,2,2024-09-12,465.53,Türkiye,Giyim,38,Diğer,Kapıda Ödeme,Hayır
+644,17040,1490,Tunceli,6,2024-09-13,17.7,Türkiye,Elektronik,19,Diğer,Kapıda Ödeme,Evet
+896,12581,1069,Iğdır,3,2024-09-14,892.83,Türkiye,Ev Eşyaları,56,Erkek,Havale,Evet
+327,19010,1195,Muğla,3,2024-09-15,899.36,Türkiye,Ev Eşyaları,52,Erkek,Kredi Kartı,Evet
+228,12903,1875,Samsun,3,2024-09-16,19.29,Türkiye,Ev Eşyaları,34,Diğer,Kapıda Ödeme,Evet
+496,13887,1132,Antalya,8,2024-09-17,882.14,Türkiye,Elektronik,53,Kadın,Kapıda Ödeme,Hayır
+389,10919,1467,Diyarbakır,6,2024-09-18,15.59,Türkiye,Ev Eşyaları,50,Kadın,Kapıda Ödeme,Evet
+736,12617,1164,Eskişehir,9,2024-09-19,532.53,Türkiye,Ev Eşyaları,23,Kadın,Kapıda Ödeme,Evet
+759,16820,1407,Bingöl,5,2024-09-20,69.58,Türkiye,Elektronik,40,Erkek,Havale,Evet
+919,15294,1872,Osmaniye,6,2024-09-21,387.19,Türkiye,Giyim,33,Erkek,Kredi Kartı,Hayır
+470,18019,1010,Zonguldak,4,2024-09-22,797.59,Türkiye,Giyim,29,Diğer,Kapıda Ödeme,Hayır
+780,16618,1523,Samsun,1,2024-09-23,247.37,Türkiye,Elektronik,44,Erkek,Kapıda Ödeme,Hayır
+964,19073,1277,Manisa,4,2024-09-24,341.01,Türkiye,Elektronik,40,Diğer,Kapıda Ödeme,Hayır
+44,16720,1252,Mardin,6,2024-09-25,647.43,Türkiye,Elektronik,68,Erkek,Havale,Evet
+773,10876,1273,Adıyaman,5,2024-09-26,569.85,Türkiye,Ev Eşyaları,50,Erkek,Kredi Kartı,Evet
+935,10929,1822,Diyarbakır,2,2024-09-27,14.75,Türkiye,Elektronik,66,Diğer,Havale,Evet
+184,13064,1009,Eskişehir,9,2024-09-28,335.67,Türkiye,Ev Eşyaları,28,Diğer,Havale,Evet
+136,15323,1607,Yalova,7,2024-09-29,517.14,Türkiye,Elektronik,37,Kadın,Kredi Kartı,Evet
+189,13001,1359,Düzce,5,2024-09-30,643.94,Türkiye,Elektronik,26,Erkek,Havale,Evet
+111,15418,1456,Adıyaman,2,2024-10-01,428.88,Türkiye,Elektronik,53,Kadın,Havale,Hayır
+967,16429,1446,Osmaniye,7,2024-10-02,98.78,Türkiye,Giyim,56,Kadın,Kredi Kartı,Evet
+688,12582,1578,Niğde,7,2024-10-03,945.8,Türkiye,Elektronik,65,Kadın,Kredi Kartı,Evet
+210,11885,1250,Rize,9,2024-10-04,302.85,Türkiye,Ev Eşyaları,25,Erkek,Havale,Evet
+779,13074,1119,Adana,1,2024-10-05,726.17,Türkiye,Ev Eşyaları,59,Diğer,Kredi Kartı,Hayır
+750,12933,1149,Rize,7,2024-10-06,388.6,Türkiye,Elektronik,40,Erkek,Havale,Evet
+690,10712,1029,Gümüşhane,1,2024-10-07,509.9,Türkiye,Giyim,28,Diğer,Kapıda Ödeme,Evet
+575,17938,1039,Yalova,6,2024-10-08,710.11,Türkiye,Ev Eşyaları,49,Erkek,Havale,Hayır
+81,14249,1703,Kilis,7,2024-10-09,374.97,Türkiye,Giyim,36,Diğer,Kredi Kartı,Hayır
+126,16282,1579,Sinop,6,2024-10-10,445.09,Türkiye,Ev Eşyaları,43,Kadın,Kredi Kartı,Hayır
+971,17327,1852,Malatya,6,2024-10-11,181.09,Türkiye,Giyim,45,Diğer,Kapıda Ödeme,Evet
+58,19385,1427,Kahramanmaraş,6,2024-10-12,398.05,Türkiye,Ev Eşyaları,42,Diğer,Kredi Kartı,Hayır
+117,14563,1610,Gaziantep,3,2024-10-13,80.82,Türkiye,Elektronik,58,Erkek,Havale,Evet
+115,14028,1318,Erzurum,8,2024-10-14,359.08,Türkiye,Giyim,64,Kadın,Kapıda Ödeme,Hayır
+1000,10580,1505,Sivas,3,2024-10-15,999.49,Türkiye,Giyim,30,Erkek,Kredi Kartı,Hayır
+772,14199,1680,Gümüşhane,3,2024-10-16,470.47,Türkiye,Giyim,30,Diğer,Kredi Kartı,Evet
+657,16365,1704,İzmir,9,2024-10-17,993.93,Türkiye,Ev Eşyaları,29,Kadın,Havale,Evet
+96,19676,1400,Bursa,8,2024-10-18,93.33,Türkiye,Elektronik,62,Erkek,Kapıda Ödeme,Hayır
+725,12974,1238,Adıyaman,2,2024-10-19,941.71,Türkiye,Ev Eşyaları,34,Kadın,Havale,Hayır
+91,10033,1285,Siirt,6,2024-10-20,586.71,Türkiye,Giyim,62,Diğer,Havale,Hayır
+180,10355,1192,Çankırı,2,2024-10-21,31.04,Türkiye,Elektronik,52,Erkek,Kredi Kartı,Evet
+393,13306,1562,Ordu,2,2024-10-22,812.31,Türkiye,Ev Eşyaları,42,Kadın,Kapıda Ödeme,Evet
+373,18535,1795,Düzce,1,2024-10-23,417.91,Türkiye,Giyim,21,Kadın,Kredi Kartı,Evet
+825,17000,1670,Çanakkale,1,2024-10-24,397.59,Türkiye,Elektronik,33,Erkek,Kapıda Ödeme,Evet
+663,16782,1838,Hatay,4,2024-10-25,543.93,Türkiye,Elektronik,34,Diğer,Kapıda Ödeme,Evet
+461,10643,1670,Mardin,5,2024-10-26,828.39,Türkiye,Ev Eşyaları,51,Kadın,Kredi Kartı,Hayır
+342,18689,1129,Erzincan,3,2024-10-27,108.01,Türkiye,Ev Eşyaları,23,Diğer,Kapıda Ödeme,Evet
+199,17811,1144,Çanakkale,1,2024-10-28,713.96,Türkiye,Elektronik,45,Erkek,Kapıda Ödeme,Hayır
+807,18830,1334,Edirne,9,2024-10-29,445.94,Türkiye,Elektronik,45,Kadın,Havale,Evet
+807,11835,1431,Kastamonu,2,2024-10-30,794.61,Türkiye,Ev Eşyaları,42,Erkek,Kapıda Ödeme,Hayır
+536,17647,1253,Kahramanmaraş,3,2024-10-31,155.18,Türkiye,Elektronik,30,Diğer,Kredi Kartı,Evet
+412,19879,1165,Bayburt,5,2024-11-01,349.55,Türkiye,Ev Eşyaları,65,Erkek,Kredi Kartı,Hayır
+37,13049,1012,Yalova,5,2024-11-02,524.98,Türkiye,Giyim,34,Erkek,Kapıda Ödeme,Evet
+985,16810,1717,Artvin,1,2024-11-03,282.57,Türkiye,Ev Eşyaları,38,Erkek,Kredi Kartı,Hayır
+599,19670,1030,Niğde,2,2024-11-04,688.45,Türkiye,Giyim,23,Diğer,Kapıda Ödeme,Evet
+397,11743,1567,Muş,9,2024-11-05,865.73,Türkiye,Giyim,61,Kadın,Kapıda Ödeme,Evet
+890,17887,1471,Eskişehir,2,2024-11-06,684.5,Türkiye,Ev Eşyaları,55,Kadın,Kredi Kartı,Hayır
+839,13367,1495,Çankırı,8,2024-11-07,30.18,Türkiye,Ev Eşyaları,40,Kadın,Kapıda Ödeme,Hayır
+790,13958,1980,Çanakkale,9,2024-11-08,239.45,Türkiye,Elektronik,37,Kadın,Kredi Kartı,Hayır
+924,11905,1628,Gaziantep,4,2024-11-09,953.11,Türkiye,Elektronik,30,Kadın,Havale,Evet
+345,18419,1528,Zonguldak,8,2024-11-10,920.34,Türkiye,Elektronik,53,Erkek,Kapıda Ödeme,Evet
+620,17527,1371,Isparta,2,2024-11-11,793.28,Türkiye,Ev Eşyaları,56,Erkek,Kapıda Ödeme,Evet
+41,14284,1047,Sakarya,8,2024-11-12,781.79,Türkiye,Elektronik,23,Erkek,Kredi Kartı,Hayır
+665,14886,1791,Bayburt,9,2024-11-13,609.59,Türkiye,Ev Eşyaları,23,Diğer,Havale,Hayır
+877,19326,1697,Ordu,8,2024-11-14,374.14,Türkiye,Ev Eşyaları,21,Erkek,Kredi Kartı,Evet
+130,17461,1488,Samsun,8,2024-11-15,354.96,Türkiye,Giyim,21,Diğer,Havale,Hayır
+274,12630,1106,Afyonkarahisar,5,2024-11-16,970.45,Türkiye,Ev Eşyaları,52,Erkek,Kapıda Ödeme,Hayır
+120,14129,1125,Tokat,1,2024-11-17,720.78,Türkiye,Ev Eşyaları,47,Kadın,Kapıda Ödeme,Evet
+976,17936,1814,Çankırı,7,2024-11-18,352.13,Türkiye,Elektronik,58,Erkek,Kapıda Ödeme,Hayır
+319,16072,1684,Mardin,8,2024-11-19,543.82,Türkiye,Elektronik,35,Erkek,Havale,Hayır
+246,15314,1950,Kocaeli,1,2024-11-20,488.94,Türkiye,Giyim,40,Erkek,Kapıda Ödeme,Hayır
+727,15955,1643,Kırşehir,8,2024-11-21,522.35,Türkiye,Giyim,59,Erkek,Kredi Kartı,Evet
+182,16654,1491,Denizli,4,2024-11-22,695.9,Türkiye,Ev Eşyaları,41,Kadın,Kapıda Ödeme,Hayır
+388,10922,1308,Bolu,2,2024-11-23,765.98,Türkiye,Giyim,33,Diğer,Kapıda Ödeme,Hayır
+750,17475,1189,Osmaniye,9,2024-11-24,312.36,Türkiye,Ev Eşyaları,45,Diğer,Havale,Hayır
+23,11140,1870,Yozgat,1,2024-11-25,558.82,Türkiye,Giyim,63,Kadın,Kapıda Ödeme,Evet
+927,16066,1604,Van,6,2024-11-26,590.2,Türkiye,Elektronik,52,Kadın,Kredi Kartı,Hayır
+433,10975,1227,Artvin,7,2024-11-27,730.4,Türkiye,Elektronik,63,Erkek,Kapıda Ödeme,Hayır
+650,14100,1715,Tekirdağ,8,2024-11-28,520.57,Türkiye,Giyim,54,Erkek,Havale,Evet
+235,18562,1189,Diyarbakır,4,2024-11-29,95.25,Türkiye,Elektronik,23,Erkek,Kredi Kartı,Hayır
+936,17195,1601,Iğdır,6,2024-11-30,914.97,Türkiye,Giyim,28,Diğer,Kredi Kartı,Evet
+812,18887,1894,Erzurum,2,2024-12-01,911.93,Türkiye,Giyim,34,Erkek,Havale,Evet
+41,13735,1536,Düzce,3,2024-12-02,38.74,Türkiye,Elektronik,32,Erkek,Kredi Kartı,Evet
+864,13389,1456,Kahramanmaraş,2,2024-12-03,746.08,Türkiye,Elektronik,66,Erkek,Kredi Kartı,Evet
+768,13065,1128,Adana,6,2024-12-04,595.6,Türkiye,Ev Eşyaları,53,Diğer,Havale,Evet
+174,10085,1793,Bilecik,7,2024-12-05,927.73,Türkiye,Giyim,27,Kadın,Kapıda Ödeme,Hayır
+458,16966,1189,Ardahan,8,2024-12-06,784.34,Türkiye,Elektronik,62,Diğer,Kapıda Ödeme,Evet
+819,19128,1622,Kars,7,2024-12-07,943.21,Türkiye,Elektronik,33,Kadın,Kapıda Ödeme,Hayır
+495,19152,1710,Bitlis,6,2024-12-08,221.09,Türkiye,Elektronik,31,Erkek,Kapıda Ödeme,Hayır
+228,11587,1467,Gümüşhane,9,2024-12-09,627.48,Türkiye,Ev Eşyaları,57,Erkek,Havale,Hayır
+612,12205,1084,Ardahan,7,2024-12-10,552.84,Türkiye,Ev Eşyaları,32,Erkek,Havale,Evet
+756,15363,1251,Giresun,3,2024-12-11,765.97,Türkiye,Giyim,25,Diğer,Havale,Evet
+337,10488,1487,Kahramanmaraş,7,2024-12-12,677.54,Türkiye,Elektronik,18,Diğer,Havale,Evet
+699,13866,1517,Osmaniye,2,2024-12-13,379.62,Türkiye,Ev Eşyaları,38,Kadın,Kredi Kartı,Evet
+29,18035,1326,Çanakkale,8,2024-12-14,360.79,Türkiye,Elektronik,19,Kadın,Kredi Kartı,Hayır
+74,13893,1614,Bilecik,4,2024-12-15,947.1,Türkiye,Giyim,33,Erkek,Havale,Hayır
+455,15132,1977,Isparta,8,2024-12-16,414.07,Türkiye,Elektronik,58,Diğer,Havale,Evet
+624,13354,1273,Tokat,5,2024-12-17,310.3,Türkiye,Elektronik,50,Kadın,Kredi Kartı,Hayır
+282,12298,1444,Mersin,3,2024-12-18,793.51,Türkiye,Giyim,23,Erkek,Kredi Kartı,Hayır
+698,18368,1519,Aksaray,9,2024-12-19,837.29,Türkiye,Giyim,34,Erkek,Havale,Hayır
+503,17054,1509,Çorum,4,2024-12-20,942.26,Türkiye,Ev Eşyaları,23,Erkek,Kredi Kartı,Hayır
+499,12989,1967,Nevşehir,4,2024-12-21,152.9,Türkiye,Elektronik,58,Kadın,Havale,Evet
+126,15800,1734,Trabzon,8,2024-12-22,881.9,Türkiye,Giyim,33,Erkek,Kredi Kartı,Hayır
+708,13900,1552,Çorum,6,2024-12-23,375.63,Türkiye,Giyim,68,Diğer,Kredi Kartı,Evet
+716,10747,1553,Zonguldak,5,2024-12-24,936.06,Türkiye,Giyim,25,Erkek,Kapıda Ödeme,Hayır
+326,16887,1752,Ardahan,1,2024-12-25,17.91,Türkiye,Giyim,26,Diğer,Havale,Hayır
+79,13211,1665,Yozgat,7,2024-12-26,886.74,Türkiye,Giyim,26,Kadın,Havale,Evet
+696,13235,1425,Tokat,8,2024-12-27,121.22,Türkiye,Elektronik,30,Erkek,Kapıda Ödeme,Evet
+705,14636,1124,Diyarbakır,3,2024-12-28,809.51,Türkiye,Ev Eşyaları,64,Erkek,Havale,Hayır
+292,18124,1313,Sivas,4,2024-12-29,925.55,Türkiye,Ev Eşyaları,19,Erkek,Havale,Hayır
+983,13759,1396,Iğdır,1,2024-12-30,670.27,Türkiye,Giyim,52,Kadın,Kredi Kartı,Hayır
+302,19740,1212,Karaman,1,2024-12-31,442.68,Türkiye,Elektronik,44,Erkek,Kredi Kartı,Evet
+613,12226,1204,Iğdır,4,2025-01-01,285.7,Türkiye,Elektronik,64,Kadın,Havale,Evet
+564,13189,1548,Mardin,4,2025-01-02,965.07,Türkiye,Giyim,29,Diğer,Kredi Kartı,Evet
+21,14000,1262,Trabzon,6,2025-01-03,899.79,Türkiye,Ev Eşyaları,50,Diğer,Kapıda Ödeme,Hayır
+918,13582,1519,Balıkesir,7,2025-01-04,586.51,Türkiye,Elektronik,61,Kadın,Havale,Evet
+822,19231,1113,Isparta,4,2025-01-05,591.91,Türkiye,Elektronik,69,Diğer,Kredi Kartı,Evet
+865,11919,1414,Mardin,3,2025-01-06,667.3,Türkiye,Giyim,63,Kadın,Kredi Kartı,Evet
+237,18678,1821,Erzincan,1,2025-01-07,640.89,Türkiye,Giyim,52,Kadın,Havale,Hayır
+29,19650,1833,Yalova,9,2025-01-08,861.64,Türkiye,Ev Eşyaları,18,Diğer,Havale,Hayır
+193,16744,1725,Siirt,6,2025-01-09,798.42,Türkiye,Giyim,23,Kadın,Kredi Kartı,Hayır
+888,11257,1640,Erzurum,9,2025-01-10,484.28,Türkiye,Elektronik,23,Diğer,Kapıda Ödeme,Evet
+640,18565,1666,Ordu,5,2025-01-11,773.64,Türkiye,Elektronik,41,Kadın,Kredi Kartı,Hayır
+197,15336,1837,Kırşehir,4,2025-01-12,133.69,Türkiye,Elektronik,34,Diğer,Kapıda Ödeme,Hayır
+111,10118,1739,Zonguldak,7,2025-01-13,988.01,Türkiye,Ev Eşyaları,27,Erkek,Kapıda Ödeme,Hayır
+985,12374,1975,Artvin,7,2025-01-14,677.97,Türkiye,Ev Eşyaları,48,Kadın,Kapıda Ödeme,Hayır
+229,18123,1810,Bartın,7,2025-01-15,964.77,Türkiye,Ev Eşyaları,24,Diğer,Kapıda Ödeme,Hayır
+850,17211,1892,Aksaray,1,2025-01-16,900.5,Türkiye,Giyim,45,Erkek,Kapıda Ödeme,Hayır
+762,18286,1165,Bingöl,3,2025-01-17,247.61,Türkiye,Giyim,23,Diğer,Kredi Kartı,Evet
+22,17104,1419,Bayburt,1,2025-01-18,92.92,Türkiye,Elektronik,38,Kadın,Kredi Kartı,Hayır
+781,14785,1800,Burdur,7,2025-01-19,163.3,Türkiye,Elektronik,25,Kadın,Havale,Hayır
+188,11187,1647,Amasya,7,2025-01-20,534.02,Türkiye,Giyim,59,Kadın,Havale,Evet
+287,10611,1212,Muş,1,2025-01-21,878.29,Türkiye,Elektronik,47,Kadın,Havale,Hayır
+341,13413,1223,Karaman,3,2025-01-22,790.57,Türkiye,Giyim,28,Diğer,Kredi Kartı,Evet
+442,13005,1174,Bartın,4,2025-01-23,778.23,Türkiye,Ev Eşyaları,40,Kadın,Kredi Kartı,Hayır
+152,18285,1778,Bayburt,1,2025-01-24,731.18,Türkiye,Giyim,48,Kadın,Kapıda Ödeme,Evet
+64,15483,1896,Sivas,7,2025-01-25,468.5,Türkiye,Ev Eşyaları,23,Kadın,Havale,Hayır
+285,18309,1819,Sivas,1,2025-01-26,260.14,Türkiye,Ev Eşyaları,27,Erkek,Kapıda Ödeme,Hayır
+650,10196,1354,Mardin,6,2025-01-27,167.26,Türkiye,Elektronik,43,Kadın,Havale,Hayır
+420,16210,1714,Gaziantep,3,2025-01-28,484.88,Türkiye,Giyim,62,Kadın,Kredi Kartı,Evet
+233,13549,1969,Isparta,5,2025-01-29,409.83,Türkiye,Ev Eşyaları,30,Diğer,Kredi Kartı,Evet
+877,19226,1404,Erzincan,3,2025-01-30,656.84,Türkiye,Elektronik,48,Erkek,Kapıda Ödeme,Evet
+464,16151,1194,Balıkesir,8,2025-01-31,699.21,Türkiye,Giyim,53,Diğer,Havale,Evet
+894,19676,1704,Edirne,5,2025-02-01,276.79,Türkiye,Elektronik,32,Diğer,Kapıda Ödeme,Hayır
+303,12193,1898,Niğde,1,2025-02-02,255.46,Türkiye,Elektronik,25,Erkek,Havale,Hayır
+574,13371,1939,Şanlıurfa,7,2025-02-03,297.08,Türkiye,Giyim,61,Kadın,Havale,Evet
+797,17943,1994,Samsun,1,2025-02-04,824.43,Türkiye,Giyim,37,Erkek,Kredi Kartı,Hayır
+32,18606,1227,Tunceli,8,2025-02-05,240.15,Türkiye,Ev Eşyaları,19,Diğer,Havale,Evet
+115,12795,1188,Mersin,4,2025-02-06,221.48,Türkiye,Elektronik,57,Kadın,Havale,Hayır
+949,15428,1825,Antalya,4,2025-02-07,626.67,Türkiye,Ev Eşyaları,20,Diğer,Kredi Kartı,Hayır
+605,13545,1806,Aksaray,2,2025-02-08,407.14,Türkiye,Elektronik,29,Diğer,Kredi Kartı,Evet
+457,17651,1017,Siirt,4,2025-02-09,651.73,Türkiye,Ev Eşyaları,30,Kadın,Kredi Kartı,Hayır
+393,15788,1161,Samsun,3,2025-02-10,488.39,Türkiye,Giyim,20,Diğer,Kredi Kartı,Evet
+241,16421,1774,Afyonkarahisar,7,2025-02-11,876.75,Türkiye,Giyim,37,Erkek,Havale,Hayır
+818,10078,1811,Malatya,5,2025-02-12,375.88,Türkiye,Giyim,24,Erkek,Kapıda Ödeme,Evet
+115,14933,1995,Manisa,2,2025-02-13,673.66,Türkiye,Ev Eşyaları,54,Kadın,Kapıda Ödeme,Evet
+532,15479,1281,Çankırı,9,2025-02-14,37.34,Türkiye,Giyim,61,Kadın,Kapıda Ödeme,Evet
+944,16990,1496,Batman,7,2025-02-15,941.74,Türkiye,Ev Eşyaları,18,Kadın,Havale,Evet
+224,18904,1947,Yozgat,8,2025-02-16,644.25,Türkiye,Giyim,27,Diğer,Kredi Kartı,Evet
+278,16484,1449,Ardahan,9,2025-02-17,374.2,Türkiye,Giyim,68,Diğer,Havale,Hayır
+179,19772,1160,Balıkesir,4,2025-02-18,995.97,Türkiye,Ev Eşyaları,51,Kadın,Havale,Evet
+286,16078,1227,Denizli,5,2025-02-19,322.81,Türkiye,Giyim,18,Erkek,Havale,Hayır
+164,12913,1032,İzmir,7,2025-02-20,26.79,Türkiye,Giyim,62,Kadın,Havale,Evet
+890,15499,1498,Konya,9,2025-02-21,732.56,Türkiye,Giyim,32,Erkek,Kredi Kartı,Evet
+793,15579,1169,Rize,4,2025-02-22,238.9,Türkiye,Elektronik,33,Erkek,Kredi Kartı,Evet
+704,16642,1648,Muğla,2,2025-02-23,831.97,Türkiye,Ev Eşyaları,50,Diğer,Havale,Hayır
+895,15774,1508,Aydın,4,2025-02-24,288.54,Türkiye,Elektronik,64,Kadın,Kapıda Ödeme,Hayır
+298,16526,1795,Mersin,5,2025-02-25,387.18,Türkiye,Ev Eşyaları,45,Kadın,Kapıda Ödeme,Evet
+746,13561,1272,Şanlıurfa,1,2025-02-26,804.0,Türkiye,Ev Eşyaları,43,Kadın,Havale,Hayır
+770,12907,1077,Kırklareli,2,2025-02-27,293.6,Türkiye,Elektronik,33,Diğer,Havale,Evet
+867,13521,1295,Tunceli,2,2025-02-28,130.95,Türkiye,Ev Eşyaları,41,Erkek,Havale,Hayır
+477,14315,1584,Hakkari,6,2025-03-01,672.62,Türkiye,Elektronik,29,Erkek,Kapıda Ödeme,Hayır
+244,18013,1718,Bingöl,1,2025-03-02,948.1,Türkiye,Ev Eşyaları,64,Kadın,Kapıda Ödeme,Evet
+789,17841,1307,Gaziantep,6,2025-03-03,635.6,Türkiye,Ev Eşyaları,67,Kadın,Havale,Hayır
+319,18623,1818,Karabük,2,2025-03-04,64.15,Türkiye,Giyim,69,Erkek,Kapıda Ödeme,Hayır
+615,10672,1175,Adana,2,2025-03-05,645.45,Türkiye,Giyim,30,Kadın,Kredi Kartı,Evet
+101,16536,1446,Kayseri,5,2025-03-06,425.88,Türkiye,Ev Eşyaları,48,Erkek,Kredi Kartı,Evet
+131,11115,1871,Karabük,5,2025-03-07,972.46,Türkiye,Giyim,33,Diğer,Kredi Kartı,Hayır
+333,10168,1162,Edirne,7,2025-03-08,577.68,Türkiye,Giyim,43,Diğer,Kredi Kartı,Hayır
+331,16797,1176,Kahramanmaraş,3,2025-03-09,760.34,Türkiye,Elektronik,42,Kadın,Kredi Kartı,Hayır
+365,11042,1683,Bartın,5,2025-03-10,232.68,Türkiye,Giyim,65,Diğer,Kapıda Ödeme,Hayır
+352,11247,1480,Sinop,7,2025-03-11,775.38,Türkiye,Ev Eşyaları,34,Kadın,Havale,Hayır
+17,15909,1032,Aksaray,3,2025-03-12,468.41,Türkiye,Ev Eşyaları,32,Diğer,Kredi Kartı,Evet
+918,13245,1389,Elazığ,7,2025-03-13,341.25,Türkiye,Ev Eşyaları,63,Kadın,Kredi Kartı,Hayır
+712,17276,1992,Adıyaman,8,2025-03-14,820.93,Türkiye,Elektronik,48,Diğer,Kapıda Ödeme,Evet
+540,18319,1916,Mersin,2,2025-03-15,587.16,Türkiye,Ev Eşyaları,56,Kadın,Kapıda Ödeme,Hayır
+532,17272,1393,Malatya,7,2025-03-16,876.27,Türkiye,Giyim,39,Kadın,Kapıda Ödeme,Hayır
+323,15908,1864,Tokat,3,2025-03-17,179.0,Türkiye,Giyim,30,Diğer,Havale,Evet
+383,15235,1461,İstanbul,1,2025-03-18,333.82,Türkiye,Ev Eşyaları,58,Kadın,Havale,Evet
+272,14336,1754,Ankara,2,2025-03-19,802.78,Türkiye,Ev Eşyaları,48,Erkek,Havale,Hayır
+44,12288,1450,Ardahan,1,2025-03-20,71.91,Türkiye,Ev Eşyaları,65,Diğer,Kapıda Ödeme,Hayır
+300,18953,1020,Antalya,7,2025-03-21,387.77,Türkiye,Giyim,38,Erkek,Kredi Kartı,Hayır
+296,17701,1473,Amasya,1,2025-03-22,489.66,Türkiye,Elektronik,33,Diğer,Havale,Hayır
+551,16190,1425,Yozgat,4,2025-03-23,749.97,Türkiye,Elektronik,65,Diğer,Kredi Kartı,Hayır
+860,17782,1647,Gaziantep,6,2025-03-24,507.01,Türkiye,Giyim,49,Erkek,Kredi Kartı,Hayır
+395,18407,1876,Elazığ,9,2025-03-25,213.71,Türkiye,Ev Eşyaları,53,Erkek,Kredi Kartı,Hayır
+453,18212,1881,Bilecik,3,2025-03-26,527.38,Türkiye,Elektronik,41,Erkek,Kredi Kartı,Evet
+430,19552,1272,Kastamonu,5,2025-03-27,875.17,Türkiye,Ev Eşyaları,61,Diğer,Kapıda Ödeme,Evet
+922,18213,1114,Adana,5,2025-03-28,182.84,Türkiye,Giyim,33,Erkek,Kapıda Ödeme,Hayır
+431,13518,1350,Uşak,2,2025-03-29,627.25,Türkiye,Elektronik,47,Erkek,Havale,Evet
+836,15860,1428,Şırnak,6,2025-03-30,754.4,Türkiye,Giyim,57,Diğer,Kredi Kartı,Hayır
+736,19428,1426,Giresun,4,2025-03-31,382.99,Türkiye,Elektronik,67,Erkek,Kredi Kartı,Evet
+691,17354,1826,Kocaeli,7,2025-04-01,594.73,Türkiye,Elektronik,64,Diğer,Kredi Kartı,Hayır
+422,15197,1984,Van,5,2025-04-02,128.37,Türkiye,Ev Eşyaları,64,Erkek,Kapıda Ödeme,Evet
+570,19631,1590,Muş,8,2025-04-03,995.31,Türkiye,Giyim,41,Diğer,Kredi Kartı,Hayır
+169,17469,1638,Gümüşhane,5,2025-04-04,881.4,Türkiye,Elektronik,59,Diğer,Kapıda Ödeme,Evet
+409,17006,1813,Denizli,3,2025-04-05,399.43,Türkiye,Elektronik,46,Diğer,Havale,Hayır
+371,18226,1935,Karabük,8,2025-04-06,401.05,Türkiye,Elektronik,38,Kadın,Havale,Hayır
+626,14876,1112,Kırklareli,5,2025-04-07,21.31,Türkiye,Elektronik,42,Erkek,Kredi Kartı,Evet
+913,12989,1034,Iğdır,9,2025-04-08,151.72,Türkiye,Giyim,67,Diğer,Havale,Evet
+132,17995,1763,Ordu,9,2025-04-09,574.28,Türkiye,Elektronik,68,Erkek,Havale,Hayır
+72,18545,1533,Sinop,8,2025-04-10,33.56,Türkiye,Giyim,64,Diğer,Kapıda Ödeme,Hayır
+367,17429,1360,Afyonkarahisar,4,2025-04-11,872.83,Türkiye,Ev Eşyaları,62,Diğer,Havale,Hayır
+101,15597,1959,Osmaniye,2,2025-04-12,203.3,Türkiye,Elektronik,22,Kadın,Kapıda Ödeme,Evet
+271,17160,1866,Adıyaman,7,2025-04-13,606.31,Türkiye,Ev Eşyaları,31,Kadın,Havale,Evet
+111,19473,1712,Bursa,1,2025-04-14,756.89,Türkiye,Ev Eşyaları,47,Erkek,Kapıda Ödeme,Evet
+675,13834,1042,Samsun,6,2025-04-15,351.89,Türkiye,Giyim,20,Kadın,Kapıda Ödeme,Evet
+402,18943,1283,Tekirdağ,5,2025-04-16,654.63,Türkiye,Ev Eşyaları,22,Diğer,Kapıda Ödeme,Evet
+378,18824,1816,Elazığ,3,2025-04-17,176.38,Türkiye,Elektronik,41,Diğer,Havale,Evet
+525,12050,1939,Siirt,1,2025-04-18,296.71,Türkiye,Elektronik,63,Kadın,Kredi Kartı,Evet
+65,12601,1712,Uşak,5,2025-04-19,350.89,Türkiye,Ev Eşyaları,59,Diğer,Kapıda Ödeme,Hayır
+842,12296,1006,Sakarya,1,2025-04-20,769.91,Türkiye,Ev Eşyaları,23,Diğer,Havale,Evet
+572,12381,1277,Adıyaman,3,2025-04-21,475.3,Türkiye,Elektronik,31,Kadın,Havale,Evet
+587,19964,1059,Van,6,2025-04-22,681.86,Türkiye,Giyim,67,Erkek,Havale,Evet
+705,17067,1754,Tokat,2,2025-04-23,92.75,Türkiye,Giyim,37,Kadın,Havale,Evet
+963,16951,1917,Sakarya,9,2025-04-24,362.98,Türkiye,Ev Eşyaları,31,Kadın,Kapıda Ödeme,Evet
+459,19911,1108,Gümüşhane,3,2025-04-25,451.49,Türkiye,Giyim,48,Kadın,Kredi Kartı,Hayır
+579,19867,1565,Bayburt,5,2025-04-26,974.07,Türkiye,Elektronik,69,Diğer,Kapıda Ödeme,Hayır
+273,15555,1451,Konya,5,2025-04-27,412.5,Türkiye,Giyim,62,Diğer,Havale,Evet
+217,19642,1798,Samsun,8,2025-04-28,988.14,Türkiye,Elektronik,27,Diğer,Kredi Kartı,Hayır
+107,16422,1217,Denizli,5,2025-04-29,278.91,Türkiye,Ev Eşyaları,36,Kadın,Kapıda Ödeme,Evet
+641,19328,1846,Erzurum,9,2025-04-30,282.23,Türkiye,Giyim,33,Diğer,Kredi Kartı,Hayır
+222,13821,1039,Erzincan,3,2025-05-01,60.42,Türkiye,Giyim,45,Kadın,Havale,Evet
+506,10668,1812,Çankırı,2,2025-05-02,131.6,Türkiye,Giyim,39,Erkek,Kredi Kartı,Evet
+642,16368,1169,Çorum,1,2025-05-03,722.2,Türkiye,Ev Eşyaları,56,Diğer,Havale,Hayır
+284,13318,1043,Çorum,9,2025-05-04,74.46,Türkiye,Giyim,30,Diğer,Havale,Hayır
+780,14101,1672,Aksaray,4,2025-05-05,543.98,Türkiye,Ev Eşyaları,59,Erkek,Havale,Hayır
+187,13674,1267,Muğla,3,2025-05-06,274.58,Türkiye,Elektronik,18,Kadın,Kapıda Ödeme,Hayır
+932,18625,1679,Artvin,3,2025-05-07,467.18,Türkiye,Elektronik,63,Erkek,Kapıda Ödeme,Evet
+123,17275,1744,Artvin,6,2025-05-08,434.51,Türkiye,Ev Eşyaları,40,Erkek,Kapıda Ödeme,Hayır
+152,12853,1309,Antalya,3,2025-05-09,39.94,Türkiye,Elektronik,44,Diğer,Havale,Evet
+354,12851,1903,Bilecik,7,2025-05-10,362.79,Türkiye,Ev Eşyaları,19,Erkek,Havale,Evet
+370,14430,1203,Bilecik,6,2025-05-11,120.22,Türkiye,Elektronik,42,Erkek,Kapıda Ödeme,Hayır
+327,16057,1226,Muğla,6,2025-05-12,101.18,Türkiye,Ev Eşyaları,43,Kadın,Kapıda Ödeme,Evet
+326,10036,1719,Gümüşhane,5,2025-05-13,409.79,Türkiye,Giyim,42,Erkek,Kapıda Ödeme,Hayır
+102,18888,1059,Sinop,6,2025-05-14,67.19,Türkiye,Ev Eşyaları,50,Kadın,Kredi Kartı,Hayır
+231,15616,1538,Rize,1,2025-05-15,547.38,Türkiye,Giyim,31,Diğer,Kredi Kartı,Evet
+276,12423,1204,Tunceli,9,2025-05-16,214.98,Türkiye,Elektronik,45,Erkek,Kredi Kartı,Evet
+674,17583,1632,Van,2,2025-05-17,789.22,Türkiye,Elektronik,62,Diğer,Kredi Kartı,Evet
+183,14936,1156,Nevşehir,9,2025-05-18,970.34,Türkiye,Elektronik,36,Kadın,Kredi Kartı,Hayır
+247,16680,1551,Aksaray,3,2025-05-19,806.89,Türkiye,Giyim,68,Kadın,Kredi Kartı,Evet
+194,11598,1204,Sinop,4,2025-05-20,342.48,Türkiye,Elektronik,44,Kadın,Havale,Evet
+337,16258,1735,Kilis,2,2025-05-21,54.64,Türkiye,Elektronik,59,Kadın,Kapıda Ödeme,Evet
+981,19495,1244,Sinop,8,2025-05-22,472.57,Türkiye,Giyim,25,Kadın,Havale,Hayır
+872,11054,1405,Kastamonu,6,2025-05-23,367.68,Türkiye,Elektronik,63,Kadın,Kapıda Ödeme,Hayır
+408,10680,1908,Ardahan,5,2025-05-24,634.27,Türkiye,Ev Eşyaları,34,Diğer,Havale,Evet
+385,18283,1033,Sakarya,8,2025-05-25,600.42,Türkiye,Ev Eşyaları,46,Diğer,Kapıda Ödeme,Evet
+670,19493,1633,Muş,4,2025-05-26,288.15,Türkiye,Giyim,57,Diğer,Kredi Kartı,Evet
+904,16883,1560,Denizli,6,2025-05-27,719.58,Türkiye,Giyim,19,Erkek,Kapıda Ödeme,Evet
+272,16715,1918,İstanbul,3,2025-05-28,564.89,Türkiye,Giyim,49,Kadın,Kapıda Ödeme,Evet
+755,12791,1821,Muş,2,2025-05-29,957.37,Türkiye,Ev Eşyaları,24,Diğer,Kapıda Ödeme,Hayır
+562,12259,1634,Elazığ,8,2025-05-30,630.42,Türkiye,Ev Eşyaları,34,Erkek,Havale,Hayır
+760,12529,1053,Kastamonu,6,2025-05-31,530.25,Türkiye,Elektronik,38,Kadın,Havale,Hayır
+312,13085,1322,Adana,2,2025-06-01,458.12,Türkiye,Giyim,60,Kadın,Kredi Kartı,Evet
+386,11213,1908,Siirt,5,2025-06-02,246.24,Türkiye,Giyim,25,Erkek,Havale,Hayır
+221,10166,1854,Afyonkarahisar,9,2025-06-03,996.05,Türkiye,Elektronik,48,Diğer,Kredi Kartı,Hayır
+64,15817,1544,Kilis,1,2025-06-04,198.65,Türkiye,Ev Eşyaları,18,Kadın,Kapıda Ödeme,Hayır
+669,19101,1390,Aydın,1,2025-06-05,641.4,Türkiye,Elektronik,27,Diğer,Kapıda Ödeme,Evet
+148,16796,1046,Balıkesir,4,2025-06-06,895.84,Türkiye,Elektronik,52,Erkek,Kredi Kartı,Hayır
+955,18753,1960,Bayburt,6,2025-06-07,486.65,Türkiye,Elektronik,22,Diğer,Kredi Kartı,Hayır
+675,10497,1348,Erzurum,3,2025-06-08,863.18,Türkiye,Elektronik,68,Kadın,Havale,Hayır
+214,17202,1565,Samsun,6,2025-06-09,218.57,Türkiye,Elektronik,44,Erkek,Kredi Kartı,Evet
+315,13098,1488,Çorum,2,2025-06-10,586.99,Türkiye,Giyim,45,Diğer,Kapıda Ödeme,Hayır
+134,19757,1757,Elazığ,2,2025-06-11,382.05,Türkiye,Elektronik,52,Diğer,Kredi Kartı,Evet
+319,18575,1411,Tokat,5,2025-06-12,41.84,Türkiye,Ev Eşyaları,25,Erkek,Kapıda Ödeme,Hayır
+987,13263,1972,Aksaray,2,2025-06-13,56.16,Türkiye,Elektronik,55,Erkek,Havale,Hayır
+703,14459,1011,Tunceli,6,2025-06-14,337.23,Türkiye,Elektronik,20,Erkek,Kredi Kartı,Evet
+680,14653,1911,Trabzon,7,2025-06-15,893.54,Türkiye,Giyim,38,Erkek,Kredi Kartı,Hayır
+446,16457,1335,Bingöl,1,2025-06-16,877.57,Türkiye,Ev Eşyaları,34,Diğer,Havale,Evet
+941,16050,1349,Şanlıurfa,5,2025-06-17,531.53,Türkiye,Giyim,66,Diğer,Kapıda Ödeme,Evet
+616,17053,1184,Amasya,1,2025-06-18,863.44,Türkiye,Elektronik,69,Kadın,Kapıda Ödeme,Evet
+219,13254,1970,Mardin,4,2025-06-19,142.98,Türkiye,Ev Eşyaları,55,Diğer,Havale,Evet
+366,13897,1308,Erzurum,2,2025-06-20,562.02,Türkiye,Elektronik,25,Diğer,Havale,Evet
+242,12290,1842,Diyarbakır,4,2025-06-21,961.03,Türkiye,Ev Eşyaları,41,Kadın,Kapıda Ödeme,Hayır
+481,13507,1252,Tokat,1,2025-06-22,908.45,Türkiye,Elektronik,59,Erkek,Havale,Evet
+312,16773,1577,Kilis,4,2025-06-23,77.63,Türkiye,Elektronik,33,Diğer,Kapıda Ödeme,Hayır
+298,13863,1553,Bilecik,5,2025-06-24,549.19,Türkiye,Ev Eşyaları,51,Kadın,Havale,Hayır
+376,13777,1539,Siirt,7,2025-06-25,190.88,Türkiye,Elektronik,31,Kadın,Kredi Kartı,Hayır
+965,11271,1197,Düzce,2,2025-06-26,137.44,Türkiye,Giyim,46,Kadın,Kredi Kartı,Evet
+340,12468,1922,Isparta,4,2025-06-27,143.79,Türkiye,Ev Eşyaları,63,Diğer,Kredi Kartı,Hayır
+584,11732,1387,Uşak,5,2025-06-28,161.07,Türkiye,Ev Eşyaları,35,Erkek,Kredi Kartı,Evet
+222,19336,1255,Denizli,5,2025-06-29,107.62,Türkiye,Giyim,60,Kadın,Kapıda Ödeme,Evet
+513,16731,1264,Burdur,4,2025-06-30,684.23,Türkiye,Elektronik,44,Erkek,Havale,Hayır
+422,12736,1002,Hatay,9,2025-07-01,761.62,Türkiye,Giyim,46,Diğer,Havale,Hayır
+951,17123,1598,Düzce,2,2025-07-02,864.27,Türkiye,Giyim,25,Diğer,Kapıda Ödeme,Hayır
+720,16780,1292,Eskişehir,1,2025-07-03,765.18,Türkiye,Giyim,18,Diğer,Havale,Hayır
+344,13829,1644,Düzce,8,2025-07-04,518.7,Türkiye,Ev Eşyaları,56,Erkek,Havale,Evet
+569,15107,1276,Erzurum,8,2025-07-05,336.82,Türkiye,Elektronik,62,Erkek,Kapıda Ödeme,Hayır
+563,10292,1095,Adana,1,2025-07-06,833.18,Türkiye,Elektronik,35,Kadın,Kapıda Ödeme,Evet
+172,14962,1415,Denizli,6,2025-07-07,770.06,Türkiye,Giyim,40,Diğer,Havale,Hayır
+785,18215,1449,Hatay,2,2025-07-08,757.78,Türkiye,Elektronik,20,Diğer,Kredi Kartı,Hayır
+93,10303,1925,Burdur,5,2025-07-09,370.52,Türkiye,Ev Eşyaları,48,Erkek,Kapıda Ödeme,Hayır
+167,17537,1454,Artvin,4,2025-07-10,764.48,Türkiye,Giyim,51,Kadın,Havale,Evet
+7,17424,1328,Amasya,8,2025-07-11,858.94,Türkiye,Ev Eşyaları,47,Diğer,Havale,Evet
+881,13217,1073,Manisa,7,2025-07-12,313.41,Türkiye,Elektronik,68,Diğer,Kapıda Ödeme,Evet
+76,14718,1329,Samsun,7,2025-07-13,62.18,Türkiye,Ev Eşyaları,50,Diğer,Kapıda Ödeme,Evet
+973,16487,1993,Edirne,5,2025-07-14,41.16,Türkiye,Ev Eşyaları,54,Kadın,Kapıda Ödeme,Evet
+46,19358,1805,Van,7,2025-07-15,770.04,Türkiye,Elektronik,60,Erkek,Kapıda Ödeme,Hayır
+566,11991,1636,Gaziantep,1,2025-07-16,930.2,Türkiye,Giyim,56,Kadın,Kredi Kartı,Evet
+89,19364,1312,Denizli,9,2025-07-17,190.78,Türkiye,Giyim,50,Diğer,Kredi Kartı,Hayır
+911,17884,1385,Bingöl,3,2025-07-18,562.64,Türkiye,Ev Eşyaları,46,Diğer,Kapıda Ödeme,Hayır
+252,19835,1796,Sivas,6,2025-07-19,332.49,Türkiye,Giyim,64,Erkek,Havale,Hayır
+680,14165,1344,Kırıkkale,6,2025-07-20,270.6,Türkiye,Ev Eşyaları,50,Diğer,Kredi Kartı,Hayır
+304,14050,1008,Düzce,3,2025-07-21,640.54,Türkiye,Elektronik,45,Diğer,Kapıda Ödeme,Hayır
+117,16946,1149,Çorum,8,2025-07-22,394.02,Türkiye,Elektronik,48,Kadın,Kapıda Ödeme,Hayır
+870,12554,1042,Tunceli,1,2025-07-23,430.11,Türkiye,Elektronik,66,Diğer,Kapıda Ödeme,Evet
+560,11900,1103,Zonguldak,5,2025-07-24,304.5,Türkiye,Giyim,46,Kadın,Kredi Kartı,Hayır
+466,15875,1250,Düzce,9,2025-07-25,764.12,Türkiye,Giyim,42,Kadın,Kredi Kartı,Evet
+482,16883,1242,Ağrı,1,2025-07-26,162.39,Türkiye,Elektronik,54,Kadın,Kredi Kartı,Evet
+750,13500,1344,Kastamonu,8,2025-07-27,29.8,Türkiye,Ev Eşyaları,30,Erkek,Kredi Kartı,Hayır
+517,13666,1455,Kars,6,2025-07-28,192.38,Türkiye,Giyim,30,Kadın,Havale,Evet
+328,19255,1127,Mardin,7,2025-07-29,22.43,Türkiye,Giyim,25,Diğer,Kapıda Ödeme,Evet
+844,15559,1442,Samsun,2,2025-07-30,97.15,Türkiye,Giyim,58,Erkek,Havale,Evet
+912,15741,1132,Gümüşhane,7,2025-07-31,954.67,Türkiye,Giyim,61,Diğer,Kapıda Ödeme,Hayır
+654,10096,1185,Kars,4,2025-08-01,43.5,Türkiye,Elektronik,50,Diğer,Havale,Hayır
+965,13803,1046,Batman,2,2025-08-02,375.6,Türkiye,Giyim,65,Diğer,Kapıda Ödeme,Hayır
+485,19511,1117,Denizli,4,2025-08-03,514.35,Türkiye,Giyim,31,Kadın,Kapıda Ödeme,Evet
+520,19927,1921,Nevşehir,6,2025-08-04,115.51,Türkiye,Elektronik,67,Diğer,Kapıda Ödeme,Hayır
+164,13414,1363,Ağrı,7,2025-08-05,11.26,Türkiye,Ev Eşyaları,21,Erkek,Havale,Hayır
+949,16079,1074,Iğdır,8,2025-08-06,135.74,Türkiye,Elektronik,58,Diğer,Kapıda Ödeme,Hayır
+570,12303,1935,Konya,1,2025-08-07,441.01,Türkiye,Elektronik,48,Erkek,Kapıda Ödeme,Evet
+755,16925,1866,Çorum,2,2025-08-08,406.23,Türkiye,Elektronik,67,Erkek,Kredi Kartı,Evet
+313,11372,1833,Kırklareli,9,2025-08-09,310.45,Türkiye,Elektronik,58,Erkek,Kredi Kartı,Hayır
+415,11647,1221,Çanakkale,5,2025-08-10,569.94,Türkiye,Elektronik,66,Diğer,Kredi Kartı,Evet
+27,19976,1047,Batman,9,2025-08-11,676.01,Türkiye,Ev Eşyaları,47,Diğer,Kredi Kartı,Hayır
+534,18839,1199,Kahramanmaraş,4,2025-08-12,766.4,Türkiye,Ev Eşyaları,26,Diğer,Kredi Kartı,Evet
+332,19409,1919,Manisa,2,2025-08-13,169.65,Türkiye,Giyim,18,Diğer,Havale,Evet
+727,11441,1606,Çankırı,6,2025-08-14,984.41,Türkiye,Giyim,42,Diğer,Kapıda Ödeme,Hayır
+504,11894,1926,Ardahan,3,2025-08-15,519.63,Türkiye,Giyim,33,Diğer,Havale,Hayır
+130,14060,1904,Bingöl,4,2025-08-16,664.37,Türkiye,Giyim,25,Erkek,Kredi Kartı,Evet
+172,12003,1928,İzmir,1,2025-08-17,234.96,Türkiye,Elektronik,22,Kadın,Havale,Evet
+827,16422,1818,Bursa,9,2025-08-18,181.59,Türkiye,Ev Eşyaları,26,Erkek,Havale,Hayır
+511,10113,1559,Konya,7,2025-08-19,490.54,Türkiye,Giyim,25,Diğer,Kapıda Ödeme,Hayır
+418,12770,1891,Düzce,1,2025-08-20,943.16,Türkiye,Giyim,69,Kadın,Kapıda Ödeme,Evet
+590,18247,1776,Aksaray,9,2025-08-21,956.04,Türkiye,Elektronik,56,Kadın,Havale,Evet
+539,18961,1283,Gümüşhane,7,2025-08-22,498.57,Türkiye,Ev Eşyaları,69,Kadın,Havale,Hayır
+288,11900,1842,Denizli,1,2025-08-23,302.76,Türkiye,Elektronik,57,Diğer,Kapıda Ödeme,Hayır
+41,17265,1889,Tunceli,3,2025-08-24,938.84,Türkiye,Ev Eşyaları,18,Diğer,Kapıda Ödeme,Hayır
+514,19308,1807,Burdur,2,2025-08-25,672.03,Türkiye,Ev Eşyaları,47,Erkek,Kapıda Ödeme,Evet
+268,13661,1788,Tekirdağ,6,2025-08-26,662.4,Türkiye,Ev Eşyaları,28,Diğer,Kredi Kartı,Hayır
+984,16825,1382,Adana,4,2025-08-27,866.66,Türkiye,Ev Eşyaları,50,Kadın,Havale,Hayır
+918,11291,1563,Yalova,9,2025-08-28,61.96,Türkiye,Giyim,61,Diğer,Kredi Kartı,Hayır
+901,10916,1922,Kırşehir,3,2025-08-29,645.68,Türkiye,Ev Eşyaları,26,Kadın,Kredi Kartı,Evet
+603,15365,1497,Burdur,8,2025-08-30,434.08,Türkiye,Elektronik,63,Erkek,Kapıda Ödeme,Evet
+590,11905,1559,Ankara,1,2025-08-31,120.8,Türkiye,Ev Eşyaları,59,Diğer,Kapıda Ödeme,Evet
+339,16830,1489,Kars,6,2025-09-01,676.51,Türkiye,Ev Eşyaları,57,Diğer,Havale,Evet
+818,10450,1830,Hatay,4,2025-09-02,681.14,Türkiye,Giyim,67,Kadın,Kredi Kartı,Hayır
+780,13948,1466,Çanakkale,5,2025-09-03,105.07,Türkiye,Giyim,58,Kadın,Kredi Kartı,Evet
+377,19025,1264,Şırnak,5,2025-09-04,443.29,Türkiye,Ev Eşyaları,19,Kadın,Kredi Kartı,Evet
+703,18801,1468,İstanbul,1,2025-09-05,132.47,Türkiye,Giyim,61,Diğer,Kapıda Ödeme,Evet
+71,12356,1886,İzmir,4,2025-09-06,460.35,Türkiye,Elektronik,57,Kadın,Kredi Kartı,Hayır
+98,13274,1959,Mardin,6,2025-09-07,456.81,Türkiye,Giyim,26,Kadın,Kapıda Ödeme,Hayır
+813,15213,1824,Sakarya,3,2025-09-08,380.35,Türkiye,Ev Eşyaları,56,Diğer,Kredi Kartı,Evet
+933,10496,1609,Karabük,8,2025-09-09,297.97,Türkiye,Giyim,47,Erkek,Kredi Kartı,Evet
+145,13413,1955,Iğdır,8,2025-09-10,592.39,Türkiye,Ev Eşyaları,27,Diğer,Havale,Hayır
+240,11407,1597,Kastamonu,7,2025-09-11,955.69,Türkiye,Giyim,56,Erkek,Havale,Hayır
+228,12664,1476,Denizli,4,2025-09-12,766.88,Türkiye,Elektronik,23,Erkek,Havale,Hayır
+405,18789,1465,Giresun,3,2025-09-13,454.74,Türkiye,Ev Eşyaları,33,Diğer,Havale,Hayır
+981,12795,1262,Yalova,4,2025-09-14,446.08,Türkiye,Elektronik,67,Diğer,Havale,Hayır
+458,13023,1106,Şırnak,3,2025-09-15,303.6,Türkiye,Giyim,20,Erkek,Kredi Kartı,Evet
+963,16105,1436,Karaman,8,2025-09-16,66.82,Türkiye,Elektronik,45,Diğer,Kapıda Ödeme,Evet
+902,16121,1810,Trabzon,3,2025-09-17,50.04,Türkiye,Ev Eşyaları,45,Kadın,Kapıda Ödeme,Evet
+765,14795,1212,Bolu,4,2025-09-18,281.63,Türkiye,Elektronik,60,Erkek,Kapıda Ödeme,Evet
+364,17910,1166,Rize,9,2025-09-19,358.92,Türkiye,Ev Eşyaları,65,Erkek,Kapıda Ödeme,Evet
+270,12124,1522,İstanbul,5,2025-09-20,475.12,Türkiye,Elektronik,47,Diğer,Kredi Kartı,Evet
+982,17934,1727,Edirne,9,2025-09-21,566.57,Türkiye,Elektronik,35,Erkek,Kapıda Ödeme,Hayır
+501,15261,1426,Eskişehir,7,2025-09-22,815.13,Türkiye,Giyim,51,Diğer,Kredi Kartı,Evet
+134,14249,1425,Bayburt,2,2025-09-23,415.15,Türkiye,Elektronik,48,Kadın,Kredi Kartı,Hayır
+699,19514,1673,Ardahan,5,2025-09-24,487.11,Türkiye,Giyim,45,Erkek,Havale,Evet
+231,12963,1808,Samsun,6,2025-09-25,678.25,Türkiye,Ev Eşyaları,34,Erkek,Kredi Kartı,Hayır
+518,18613,1485,Erzincan,2,2025-09-26,654.48,Türkiye,Elektronik,62,Erkek,Havale,Hayır

@@ -1,0 +1,13 @@
+@RELATION hepsiburada_satis_veri_seti_gelistirilmis
+
+@ATTRIBUTE ProductID NUMERIC
+@ATTRIBUTE OrderID NUMERIC
+@ATTRIBUTE CustomerID NUMERIC
+@ATTRIBUTE Address STRING
+@ATTRIBUTE Quantity NUMERIC
+@ATTRIBUTE OrderDate STRING
+@ATTRIBUTE ProductPrice NUMERIC
+@ATTRIBUTE Country {Türkiye}
+@ATTRIBUTE SalesCategory {Medium,High,Low}
+
+@DATA
